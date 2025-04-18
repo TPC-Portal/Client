@@ -1,10 +1,12 @@
-import React, { Suspense } from 'react';
+import React, { Suspense, useEffect } from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import MainLayout from './layouts/MainLayout';
 import LoadingSkeleton from './components/ui/LoadingSkeleton';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { loadStudentData } from './utils/loadStudentData';
+import { useDispatch } from 'react-redux';
 
 // Lazy load pages
 const Dashboard = React.lazy(() => import('./pages/Dashboard'));
@@ -12,6 +14,20 @@ const Insights = React.lazy(() => import('./pages/Insights'));
 const Resume = React.lazy(() => import('./pages/Resume'));
 
 const App = () => {
+  const dispatch = useDispatch();
+  
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const data = await loadStudentData(dispatch);
+        console.log("Student data loaded successfully:", data);
+      } catch (error) {
+        console.error("Error loading student data:", error);
+      }
+    };
+    fetchData();
+  }, []);
+  
   return (
     <BrowserRouter>
       <AnimatePresence mode="wait">

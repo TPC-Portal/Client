@@ -3,10 +3,7 @@ import { motion } from 'framer-motion';
 import { useSelector, useDispatch } from 'react-redux';
 
 const Insights = () => {
-  const dispatch = useDispatch();
-
-  useEffect(() => {
-  }, [dispatch]);
+  const studentData = useSelector((state) => state.studentData.data);
 
   return (
     <motion.div
@@ -16,6 +13,7 @@ const Insights = () => {
       className="space-y-6 p-4 sm:p-6 md:p-8"
     >
       <h1 className="text-4xl font-bold text-white mb-8">Insights</h1>
+      <p className='text-white'>{studentData[0].Branch}</p>
     </motion.div>
   );
 };
