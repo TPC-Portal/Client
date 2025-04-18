@@ -3,6 +3,8 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import MainLayout from './layouts/MainLayout';
 import LoadingSkeleton from './components/ui/LoadingSkeleton';
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 // Lazy load pages
 const Dashboard = React.lazy(() => import('./pages/Dashboard'));
@@ -28,6 +30,7 @@ const App = () => {
           </Routes>
         </Suspense>
       </AnimatePresence>
+      <ToastContainer />
     </BrowserRouter>
   );
 };

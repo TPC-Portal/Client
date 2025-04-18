@@ -15,7 +15,6 @@ const notifications = [
 const Navbar = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const [isNotificationsOpen, setIsNotificationsOpen] = useState(false);
   const [isProfileOpen, setIsProfileOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
@@ -53,23 +52,6 @@ const Navbar = () => {
           </div>
           
           <div className="flex items-center space-x-4">
-            <div className="relative">
-              <motion.button
-                className="p-2 rounded-full bg-white/5 hover:bg-white/10 transition-colors duration-200 relative"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                onClick={() => setIsNotificationsOpen(!isNotificationsOpen)}
-              >
-                <Bell className="w-6 h-6 text-gray-300" />
-                <span className="absolute top-0 right-0 w-2 h-2 bg-red-500 rounded-full"></span>
-              </motion.button>
-              <DropdownMenu 
-                isOpen={isNotificationsOpen} 
-                items={notifications}
-                onClose={() => setIsNotificationsOpen(false)}
-              />
-            </div>
-            
             <div className="relative">
               <motion.button
                 className="flex items-center gap-2 p-2 rounded-full bg-white/5 hover:bg-white/10 transition-colors duration-200"

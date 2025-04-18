@@ -1,7 +1,7 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
-    data: [], // Start with an empty array, as it's likely what you want
+    data: [],
 }
 
 export const studentDataSlice = createSlice({
@@ -9,12 +9,11 @@ export const studentDataSlice = createSlice({
     initialState,
     reducers: {
         addStudentData(state, action) {
-            state.data = action.payload; // Replace old data with new data
-            // console.log(state.data[0]);
+            state.data = action.payload.data;
         },
 
         appendStudentData(state, action) {
-            state.data.push(...action.payload); // Append new data
+            state.data.push(...action.payload);
         },
     },
 })

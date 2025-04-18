@@ -1,5 +1,5 @@
 import { configureStore } from '@reduxjs/toolkit'
-import studentDataReducer from './studentData.js'
+import studentDataReducer from './slices/studentDataSlice.js'
 
 export const store = configureStore({
     reducer: {
