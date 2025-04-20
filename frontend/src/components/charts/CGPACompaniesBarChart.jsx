@@ -4,9 +4,9 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContaine
 const CustomTooltip = ({ active, payload, label }) => {
   if (active && payload && payload.length) {
     return (
-      <div className="custom-tooltip bg-gray-800 border border-gray-700 p-3 rounded shadow-lg text-sm min-w-[180px]">
-        <p className="text-gray-300 border-b border-gray-700 pb-1 mb-2">{`CGPA Range: ${label}`}</p>
-        <p className="text-blue-400 font-medium mb-1">{`Companies: ${payload[0].value}`}</p>
+      <div className="custom-tooltip bg-gray-800 border border-gray-700 p-2 sm:p-3 rounded shadow-lg text-sm min-w-[160px] sm:min-w-[180px]">
+        <p className="text-gray-300 border-b border-gray-700 pb-1 mb-2 text-xs sm:text-sm">{`CGPA Range: ${label}`}</p>
+        <p className="text-blue-400 font-medium mb-1 text-xs sm:text-sm">{`Companies: ${payload[0].value}`}</p>
         {payload[0].payload.students && (
           <p className="text-green-400 text-xs">{`Students: ${payload[0].payload.students}`}</p>
         )}
@@ -34,6 +34,14 @@ const CGPACompaniesBarChart = ({ data, selectedYear = 'All' }) => {
       { min: 6.0, max: 6.99, label: '6.0-6.99' },
       { min: 0, max: 5.99, label: 'Below 6.0' }
     ];
+    
+    // For smaller screens, use shorter labels
+    if (window.innerWidth < 640) {
+      cgpaRanges.forEach(range => {
+        range.label = range.label.replace('-', '-\n');
+      });
+      cgpaRanges[4].label = '<6.0';
+    }
     
     // Categorize students into CGPA ranges
     const rangeCounts = cgpaRanges.map(range => {
@@ -66,27 +74,35 @@ const CGPACompaniesBarChart = ({ data, selectedYear = 'All' }) => {
     );
   }
   
+  // Determine bar size based on screen width
+  const barSize = window.innerWidth < 640 ? 30 : (window.innerWidth < 1024 ? 45 : 60);
+  
   return (
     <div className="w-full h-full">
       <ResponsiveContainer width="100%" height="100%">
         <BarChart
           data={chartData}
-          margin={{ top: 10, right: 10, left: 0, bottom: 20 }}
-          barSize={60}
+          margin={{ top: 10, right: 5, left: 0, bottom: 20 }}
+          barSize={barSize}
         >
           <CartesianGrid strokeDasharray="3 3" stroke="#333" vertical={false} />
           <XAxis 
             dataKey="range" 
-            tick={{ fill: '#aaa', fontSize: 12 }}
+            tick={{ fill: '#aaa', fontSize: window.innerWidth < 640 ? 10 : 12 }}
             axisLine={{ stroke: '#444' }}
+            height={50}
           />
           <YAxis 
-            tick={{ fill: '#aaa', fontSize: 12 }}
+            tick={{ fill: '#aaa', fontSize: window.innerWidth < 640 ? 10 : 12 }}
             axisLine={{ stroke: '#444' }}
             tickLine={{ stroke: '#444' }}
+            width={30}
           />
           <Tooltip content={<CustomTooltip />} cursor={{ fill: 'rgba(100, 100, 100, 0.2)' }} />
-          <Legend wrapperStyle={{ paddingTop: 10 }} />
+          <Legend 
+            wrapperStyle={{ paddingTop: 5, fontSize: window.innerWidth < 640 ? 10 : 12 }} 
+            iconSize={window.innerWidth < 640 ? 8 : 10}
+          />
           <Bar 
             name="Number of Companies"
             dataKey="companies" 

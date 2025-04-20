@@ -79,9 +79,9 @@ const renderActiveShape = (props) => {
   const sin = Math.sin(-RADIAN * midAngle);
   const cos = Math.cos(-RADIAN * midAngle);
   
-  // Move slice outward by 25 pixels for more noticeable separation
-  const offsetX = 25 * cos;
-  const offsetY = 25 * sin;
+  // Move slice outward by 20 pixels for more noticeable separation
+  const offsetX = 18 * cos;
+  const offsetY = 18 * sin;
   
   return (
     <g>
@@ -97,7 +97,6 @@ const renderActiveShape = (props) => {
           fill={fill}
           stroke="#1a1a1a"
           strokeWidth={1.5}
-          style={{ filter: 'drop-shadow(0px 0px 5px rgba(0,0,0,0.5))' }}
         />
       </g>
     </g>
@@ -108,14 +107,14 @@ const renderActiveShape = (props) => {
 const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, percent, index, name, fill, value, activeIndex }) => {
   const RADIAN = Math.PI / 180;
   
-  // Calculate coordinates for label lines and text
+  // Calculate coordinates for label lines and text - adjusted for smaller chart
   const sin = Math.sin(-RADIAN * midAngle);
   const cos = Math.cos(-RADIAN * midAngle);
-  const sx = cx + (outerRadius + 10) * cos;
-  const sy = cy + (outerRadius + 10) * sin;
-  const mx = cx + (outerRadius + 35) * cos;
-  const my = cy + (outerRadius + 35) * sin;
-  const ex = mx + (cos >= 0 ? 1 : -1) * 25;
+  const sx = cx + (outerRadius + 5) * cos;
+  const sy = cy + (outerRadius + 5) * sin;
+  const mx = cx + (outerRadius + 25) * cos;
+  const my = cy + (outerRadius + 25) * sin;
+  const ex = mx + (cos >= 0 ? 1 : -1) * 20;
   const ey = my;
   const textAnchor = cos >= 0 ? 'start' : 'end';
 
@@ -128,13 +127,17 @@ const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, per
   // Use the color from COLORS array based on index
   const dotColor = COLORS[index % COLORS.length];
 
+  // Calculate responsive font sizes
+  const nameFontSize = window.innerWidth < 768 ? 12 : 13;
+  const percentFontSize = window.innerWidth < 768 ? 11 : 12;
+
   return (
     <g pointerEvents="none">
       {/* Label line connecting to outer label */}
       <path
         d={`M${sx},${sy}L${mx},${my}L${ex},${ey}`}
         stroke="#999"
-        strokeWidth={1.5}
+        strokeWidth={1}
         fill="none"
       />
       
@@ -142,32 +145,35 @@ const renderCustomizedLabel = ({ cx, cy, midAngle, innerRadius, outerRadius, per
       <circle 
         cx={mx} 
         cy={my} 
-        r={4.5} 
+        r={4} 
         fill={dotColor} 
         strokeWidth={1}
       />
       
       {/* Role name */}
       <text
-        x={ex + (cos >= 0 ? 1 : -1) * 8}
-        y={ey - 12}
+        x={ex + (cos >= 0 ? 1 : -1) * 6}
+        y={ey - 10}
         textAnchor={textAnchor}
         fill="#ddd"
-        fontSize={13}
+        fontSize={nameFontSize}
         fontWeight="500"
         style={{ textShadow: '0 1px 2px rgba(0,0,0,0.5)' }}
         pointerEvents="none"
       >
-        {name.length > 15 ? name.substring(0, 15) + '...' : name}
+        {window.innerWidth < 768 ? 
+          (name.length > 8 ? name.substring(0, 8) + '...' : name) : 
+          (name.length > 12 ? name.substring(0, 12) + '...' : name)
+        }
       </text>
       
       {/* Percentage */}
       <text
-        x={ex + (cos >= 0 ? 1 : -1) * 8}
-        y={ey + 12}
+        x={ex + (cos >= 0 ? 1 : -1) * 6}
+        y={ey + 10}
         textAnchor={textAnchor}
         fill="#aaa"
-        fontSize={12}
+        fontSize={percentFontSize}
         fontWeight="bold"
         pointerEvents="none"
       >
@@ -275,7 +281,7 @@ const RoleCTCPieChart = ({ data, selectedYear }) => {
         <PieChart 
           style={{ outline: 'none', userSelect: 'none' }}
           onClick={(e) => { e.stopPropagation(); e.preventDefault(); }}
-          margin={{ top: 10, right: 10, bottom: 10, left: 10 }}
+          margin={{ top: 10, right: 5, bottom: 10, left: 5 }}
         >
           {/* Main pie chart - will have invisible active slice */}
           <Pie
@@ -283,9 +289,9 @@ const RoleCTCPieChart = ({ data, selectedYear }) => {
             cx="50%"
             cy="50%"
             innerRadius={0}
-            outerRadius={145}
+            outerRadius="70%"
             dataKey="value"
-            paddingAngle={3}
+            paddingAngle={2}
             onMouseEnter={onPieEnter}
             onMouseLeave={onPieLeave}
             activeIndex={activeIndex}
@@ -301,7 +307,7 @@ const RoleCTCPieChart = ({ data, selectedYear }) => {
                 key={`cell-${index}`} 
                 fill={COLORS[index % COLORS.length]}
                 stroke={"#1a1a1a"}
-                strokeWidth={1.5}
+                strokeWidth={1}
               />
             ))}
           </Pie>
@@ -312,9 +318,9 @@ const RoleCTCPieChart = ({ data, selectedYear }) => {
             cx="50%"
             cy="50%"
             innerRadius={0}
-            outerRadius={145}
+            outerRadius="70%"
             dataKey="value"
-            paddingAngle={3}
+            paddingAngle={2}
             isAnimationActive={false}
             label={(props) => renderCustomizedLabel({...props, activeIndex})}
             labelLine={false}
@@ -335,20 +341,21 @@ const RoleCTCPieChart = ({ data, selectedYear }) => {
             wrapperStyle={{ 
               paddingTop: '10px',
               userSelect: 'none',
-              outline: 'none'
+              outline: 'none',
+              fontSize: '10px'
             }}
-            iconSize={10}
+            iconSize={8}
             iconType="circle"
             payload={chartData.data.map((item, index) => ({
               id: item.name,
               type: 'circle',
-              value: item.name,
+              value: item.name.length > 12 ? item.name.substring(0, 12) + '...' : item.name,
               color: COLORS[index % COLORS.length]
             }))}
             formatter={(value) => (
               <span style={{ 
                 color: '#ddd', 
-                fontSize: '11px', 
+                fontSize: '10px', 
                 fontWeight: '500',
                 outline: 'none'
               }}>

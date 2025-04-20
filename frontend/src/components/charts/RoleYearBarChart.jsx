@@ -29,7 +29,7 @@ const CustomTooltip = ({ active, payload, label, allData, selectedRole }) => {
       .slice(0, 5); // Show top 5 max
     
     return (
-      <div className="custom-tooltip bg-gray-800 border border-gray-700 p-3 rounded shadow-lg text-sm min-w-[180px]">
+      <div className="custom-tooltip bg-gray-800 border border-gray-700 p-2 sm:p-3 rounded shadow-lg text-xs sm:text-sm min-w-[160px] sm:min-w-[180px]">
         <p className="text-gray-300 border-b border-gray-700 pb-1 mb-2">{`Year: ${label}`}</p>
         <p className="text-blue-400 font-medium mb-2">{`Total: ${payload[0].value}`}</p>
         
@@ -39,7 +39,7 @@ const CustomTooltip = ({ active, payload, label, allData, selectedRole }) => {
             <ul className="space-y-1">
               {topCompanies.map((company, index) => (
                 <li key={index} className="text-gray-400 text-xs flex justify-between">
-                  <span>{company.company}</span>
+                  <span>{company.company.length > 15 ? company.company.substring(0, 15) + '...' : company.company}</span>
                   <span className="text-gray-500">{company.count}</span>
                 </li>
               ))}
@@ -86,25 +86,40 @@ const RoleYearBarChart = ({ data, selectedRole }) => {
     );
   }
 
+  // Determine bar size based on screen width and number of bars
+  const getBarSize = () => {
+    const screenWidth = window.innerWidth;
+    const barCount = chartData.length;
+    
+    if (screenWidth < 640) {
+      return Math.min(60, (screenWidth - 80) / barCount);
+    } else if (screenWidth < 1024) {
+      return Math.min(75, (screenWidth - 100) / barCount);
+    } else {
+      return 90;
+    }
+  };
+
   return (
     <div className="flex justify-center w-full h-full">
       <div className="w-full h-full">
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
             data={chartData}
-            margin={{ top: 10, right: 10, left: 10, bottom: 20 }}
-            barSize={90}
+            margin={{ top: 10, right: 5, left: -15, bottom: 20 }}
+            barSize={getBarSize()}
           >
             <CartesianGrid strokeDasharray="3 3" stroke="#333" vertical={false} />
             <XAxis 
               dataKey="year" 
-              tick={{ fill: '#aaa', fontSize: 12 }}
+              tick={{ fill: '#aaa', fontSize: window.innerWidth < 640 ? 10 : 12 }}
               axisLine={{ stroke: '#444' }}
             />
             <YAxis 
-              tick={{ fill: '#aaa', fontSize: 12 }}
+              tick={{ fill: '#aaa', fontSize: window.innerWidth < 640 ? 10 : 12 }}
               axisLine={{ stroke: '#444' }}
               tickLine={{ stroke: '#444' }}
+              width={30}
             />
             <Tooltip 
               content={<CustomTooltip allData={data} selectedRole={selectedRole} />}

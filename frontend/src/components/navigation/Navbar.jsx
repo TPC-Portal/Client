@@ -28,7 +28,7 @@ const Navbar = () => {
     <motion.nav 
       initial={{ y: -100 }}
       animate={{ y: 0 }}
-      className="fixed top-0 left-0 right-0 z-50 bg-gray-900/80 backdrop-blur-lg border-b border-gray-800"
+      className="fixed top-0 left-0 right-0 z-50 bg-gray-900 border-b border-gray-800 shadow-lg"
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
@@ -70,7 +70,7 @@ const Navbar = () => {
             </div>
 
             <motion.button
-              className="md:hidden p-2 rounded-full bg-white/5 hover:bg-white/10 transition-colors duration-200"
+              className="md:hidden p-2 rounded-full bg-gray-800 hover:bg-gray-700 transition-colors duration-200"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               onClick={() => setIsMobileMenuOpen(true)}
