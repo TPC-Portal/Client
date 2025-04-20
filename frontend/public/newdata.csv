@@ -1,0 +1,2129 @@
+CGPA,Branch,CTC,Year,Company,Role
+7.21,ME,20.96,2014,Microsoft,SDE
+5.55,ECE,19.02,2014,Paytm,SDE
+5.9,CSE,11.45,2014,Netflix,QA_Engineer
+7.57,IT,25.16,2014,Adobe,Product Manager
+6.24,CSE,5.83,2014,Wipro,UI/UX
+7.89,ECE,18.79,2014,Facebook,DevOps
+6.38,IT,20.86,2014,Google,SDE
+5.57,CE,26.77,2014,Facebook,Product Manager
+6.08,IT,25.86,2014,Netflix,SDE
+7.67,IT,18.51,2014,Paytm,SDE
+7.92,IT,14.48,2014,Paytm,SDE
+8.78,CSE,23.23,2014,Wipro,SDE
+5.22,ME,26.04,2014,Facebook,Product Manager
+8.02,CSE,23.91,2014,Wipro,Data Science
+7.02,ME,12.72,2014,Infosys,UI/UX
+7.33,CSE,20.36,2014,Google,SDE
+7.46,CE,10.69,2014,Google,UI/UX
+7.47,CSE,9.42,2014,Paytm,QA_Engineer
+7.44,ME,26.45,2014,Paytm,Data Science
+7.25,IT,22.69,2014,Amazon,Data Science
+6.85,CE,18.82,2014,Netflix,DevOps
+5.26,CSE,25.39,2014,Facebook,Data Science
+7.0,CSE,19.34,2014,Amazon,DevOps
+7.87,ECE,21.05,2014,Facebook,SDE
+7.78,EEE,28.03,2014,Wipro,Data Science
+7.76,ECE,19.69,2014,Wipro,SDE
+7.2,ECE,15.92,2014,Adobe,Product Manager
+8.07,CE,26.09,2014,TCS,SDE
+6.95,EEE,14.06,2014,TCS,DevOps
+6.05,ME,8.53,2014,Google,UI/UX
+8.43,EEE,19.29,2014,TCS,Data Science
+6.69,EEE,23.75,2014,Amazon,Data Science
+6.03,ME,6.74,2014,Google,QA_Engineer
+6.17,ECE,13.56,2014,Google,DevOps
+5.94,EEE,16.85,2014,Paytm,DevOps
+6.94,CE,13.22,2014,Amazon,DevOps
+8.16,CSE,27.15,2014,TCS,Product Manager
+6.87,CSE,24.98,2014,TCS,Product Manager
+6.76,ECE,23.89,2014,Adobe,Product Manager
+8.84,CSE,28.04,2014,Paytm,Product Manager
+7.85,IT,17.01,2014,Wipro,Data Science
+7.92,ECE,13.92,2014,Infosys,DevOps
+7.73,CE,23.17,2014,Wipro,Data Science
+7.36,ME,21.85,2014,Facebook,SDE
+7.77,ME,25.81,2014,Adobe,Product Manager
+7.61,ECE,19.86,2014,Google,SDE
+7.05,CE,14.63,2014,Wipro,DevOps
+6.95,CSE,19.18,2014,TCS,SDE
+6.88,CE,18.77,2014,Google,Data Science
+5.65,ME,24.88,2014,Google,Product Manager
+6.88,EEE,23.66,2014,TCS,Data Science
+7.32,CE,21.77,2014,Netflix,SDE
+8.24,ME,14.08,2014,Google,DevOps
+6.57,CE,9.65,2014,Infosys,QA_Engineer
+6.05,IT,19.69,2014,TCS,Data Science
+6.66,ECE,16.77,2014,Microsoft,SDE
+6.09,CE,22.57,2014,Paytm,SDE
+6.32,ME,16.75,2014,Paytm,DevOps
+6.88,ECE,9.54,2014,TCS,UI/UX
+6.91,CSE,12.94,2014,Infosys,UI/UX
+7.08,CSE,15.82,2014,Amazon,SDE
+5.51,IT,8.14,2014,Paytm,QA_Engineer
+7.2,IT,25.95,2014,Google,Product Manager
+8.05,CSE,20.18,2014,Google,Data Science
+8.27,EEE,21.52,2014,TCS,SDE
+6.62,EEE,15.33,2014,Microsoft,DevOps
+9.72,CSE,21.69,2014,Netflix,Data Science
+6.14,CSE,26.01,2014,Adobe,Product Manager
+7.5,EEE,23.87,2014,Amazon,SDE
+7.91,ECE,17.41,2014,Infosys,DevOps
+8.83,ME,20.95,2014,Netflix,SDE
+6.66,ME,24.74,2014,Infosys,SDE
+6.17,IT,19.11,2014,TCS,DevOps
+6.71,CE,23.63,2014,TCS,Data Science
+6.44,IT,16.16,2014,Netflix,SDE
+8.03,CE,14.88,2014,Netflix,DevOps
+5.87,ECE,20.25,2014,Adobe,SDE
+6.35,ME,28.26,2014,Facebook,Product Manager
+5.89,IT,7.92,2014,Paytm,QA_Engineer
+6.01,ECE,25.36,2014,Wipro,SDE
+5.84,IT,25.77,2014,Microsoft,Data Science
+7.18,ECE,11.66,2014,Netflix,UI/UX
+7.75,CSE,26.7,2014,Microsoft,Product Manager
+5.78,EEE,26.68,2014,Netflix,Product Manager
+6.81,CE,11.17,2014,Amazon,QA_Engineer
+7.16,ME,20.02,2014,Netflix,SDE
+6.02,CSE,26.08,2014,Wipro,Product Manager
+7.56,IT,5.09,2014,Google,QA_Engineer
+7.35,EEE,20.71,2014,Microsoft,SDE
+8.78,CE,10.88,2014,Amazon,QA_Engineer
+7.06,ME,12.76,2014,Paytm,SDE
+6.88,CSE,16.65,2014,Infosys,DevOps
+7.26,ME,24.04,2014,Netflix,SDE
+6.44,CSE,27.36,2014,Google,Product Manager
+8.88,IT,17.97,2014,Wipro,SDE
+6.96,CSE,18.74,2014,Paytm,SDE
+8.41,ECE,9.44,2014,Amazon,UI/UX
+7.78,ECE,16.27,2014,Wipro,QA_Engineer
+6.64,CE,18.58,2014,Wipro,SDE
+6.91,CSE,19.08,2014,Google,SDE
+6.63,ECE,22.08,2015,Google,SDE
+8.1,IT,20.74,2015,Microsoft,SDE
+7.26,CSE,20.51,2015,Infosys,SDE
+5.62,CE,22.47,2015,Infosys,Data Science
+8.71,CE,12.54,2015,Wipro,UI/UX
+7.94,CSE,8.77,2015,Microsoft,QA_Engineer
+6.19,ECE,21.62,2015,TCS,SDE
+7.25,ME,26.69,2015,Wipro,Product Manager
+7.04,ME,22.43,2015,Paytm,SDE
+6.72,IT,24.84,2015,Infosys,Product Manager
+6.89,CSE,23.1,2015,Wipro,Data Science
+8.26,CSE,30.47,2015,Google,Product Manager
+6.1,CE,14.64,2015,Adobe,DevOps
+8.64,CE,19.1,2015,Google,SDE
+7.68,CE,23.53,2015,Google,Data Science
+6.48,IT,19.9,2015,Netflix,SDE
+7.47,ME,14.11,2015,Paytm,UI/UX
+8.12,CE,13.65,2015,Infosys,DevOps
+7.23,IT,25.14,2015,Infosys,SDE
+8.05,ECE,15.9,2015,Infosys,DevOps
+6.47,ECE,11.89,2015,Microsoft,DevOps
+6.46,EEE,27.91,2015,Paytm,Product Manager
+6.62,ME,6.75,2015,Amazon,QA_Engineer
+6.98,ECE,24.34,2015,Amazon,Data Science
+6.61,ME,23.64,2015,Amazon,SDE
+7.25,IT,22.23,2015,Netflix,SDE
+6.51,ME,15.16,2015,Adobe,DevOps
+6.82,CSE,20.29,2015,Wipro,SDE
+6.92,CE,13.48,2015,Amazon,DevOps
+6.57,ME,23.23,2015,Netflix,Product Manager
+6.55,CE,31.35,2015,Microsoft,Product Manager
+7.24,EEE,13.54,2015,Wipro,DevOps
+5.36,IT,23.09,2015,Wipro,Product Manager
+6.93,IT,23.99,2015,Facebook,Data Science
+7.85,IT,13.66,2015,Netflix,DevOps
+6.4,ECE,20.84,2015,Google,Data Science
+5.71,ECE,21.1,2015,Google,SDE
+7.51,CE,14.49,2015,Microsoft,QA_Engineer
+6.91,CE,14.39,2015,Paytm,DevOps
+7.51,EEE,9.43,2015,Netflix,DevOps
+6.54,IT,17.82,2015,Amazon,DevOps
+7.37,IT,23.11,2015,Paytm,SDE
+6.51,CSE,22.26,2015,Adobe,Data Science
+7.17,CSE,16.79,2015,Google,SDE
+6.47,CE,26.31,2015,Wipro,Product Manager
+7.45,ECE,23.83,2015,TCS,SDE
+6.76,ME,13.98,2015,Netflix,SDE
+6.61,ME,28.65,2015,Google,Data Science
+5.86,ECE,12.02,2015,Amazon,DevOps
+7.67,ME,23.26,2015,Facebook,Product Manager
+7.47,ME,21.58,2015,Infosys,Product Manager
+7.39,CE,10.44,2015,Paytm,UI/UX
+7.12,EEE,22.46,2015,Paytm,SDE
+6.5,IT,23.88,2015,Microsoft,Product Manager
+7.53,ECE,10.49,2015,Facebook,UI/UX
+6.65,ME,5.68,2015,TCS,QA_Engineer
+5.52,EEE,17.12,2015,Facebook,SDE
+5.07,ECE,10.02,2015,Facebook,DevOps
+6.75,EEE,20.32,2015,Microsoft,SDE
+7.32,EEE,21.56,2015,Paytm,SDE
+7.67,IT,24.47,2015,Amazon,SDE
+8.22,CSE,11.34,2015,TCS,QA_Engineer
+7.33,CE,24.67,2015,Infosys,SDE
+6.53,ECE,18.08,2015,Paytm,SDE
+7.24,ME,23.47,2015,Facebook,SDE
+5.8,ME,14.86,2015,Adobe,UI/UX
+5.04,ECE,16.73,2015,Infosys,DevOps
+8.06,EEE,11.73,2015,Paytm,QA_Engineer
+4.89,CSE,19.23,2015,Facebook,SDE
+5.99,CSE,14.53,2015,TCS,SDE
+6.9,ECE,23.23,2015,Adobe,Product Manager
+7.51,CSE,11.16,2015,Microsoft,UI/UX
+7.03,CSE,13.54,2015,Wipro,UI/UX
+6.92,CSE,1.87,2015,Paytm,QA_Engineer
+7.96,CSE,14.21,2015,Google,DevOps
+6.18,CSE,12.88,2015,Infosys,QA_Engineer
+5.97,ME,25.47,2015,Adobe,Data Science
+7.5,EEE,16.81,2015,Paytm,SDE
+6.83,CSE,15.66,2015,Microsoft,SDE
+6.97,CSE,11.92,2015,Facebook,UI/UX
+7.94,CSE,28.02,2015,Paytm,Product Manager
+7.99,CSE,20.17,2015,Infosys,Product Manager
+7.6,CSE,19.82,2015,Amazon,SDE
+6.44,ME,14.95,2015,Google,QA_Engineer
+6.01,ECE,22.11,2015,Infosys,SDE
+6.85,EEE,20.82,2015,Microsoft,Data Science
+6.48,CSE,12.43,2015,Infosys,QA_Engineer
+6.65,ME,20.58,2015,Google,Data Science
+7.2,CSE,20.6,2015,Netflix,Data Science
+8.01,CSE,10.85,2015,TCS,QA_Engineer
+7.45,CE,20.73,2015,Microsoft,SDE
+6.64,ME,17.06,2015,Facebook,SDE
+7.36,CE,19.99,2015,Infosys,SDE
+5.95,EEE,12.64,2015,Facebook,DevOps
+6.66,CE,23.3,2015,Netflix,Data Science
+6.09,ME,23.27,2015,Microsoft,SDE
+6.63,ECE,20.93,2015,Adobe,Product Manager
+6.51,CSE,25.16,2015,Google,SDE
+6.97,EEE,27.46,2015,Facebook,SDE
+6.69,ECE,25.26,2015,Infosys,Product Manager
+6.12,IT,26.41,2016,Infosys,Data Science
+6.35,CSE,20.89,2016,Amazon,SDE
+7.74,ME,18.61,2016,Amazon,DevOps
+6.51,CE,22.54,2016,Paytm,SDE
+6.93,CE,24.48,2016,Amazon,Data Science
+6.66,EEE,22.92,2016,Microsoft,SDE
+7.25,IT,18.67,2016,Adobe,SDE
+7.35,CSE,19.05,2016,Infosys,Data Science
+6.63,ME,17.75,2016,Microsoft,SDE
+5.59,CE,15.43,2016,Netflix,SDE
+6.17,CSE,23.18,2016,TCS,Data Science
+8.9,EEE,20.09,2016,Microsoft,DevOps
+7.75,ECE,17.5,2016,Wipro,Data Science
+8.35,CE,7.33,2016,Adobe,UI/UX
+7.7,IT,17.73,2016,Paytm,DevOps
+6.5,CSE,14.75,2016,Google,UI/UX
+5.3,ECE,5.29,2016,Amazon,UI/UX
+7.75,EEE,8.55,2016,Adobe,QA_Engineer
+6.5,CSE,20.98,2016,Microsoft,Data Science
+7.38,CSE,14.98,2016,Infosys,Data Science
+7.96,ECE,14.06,2016,Microsoft,DevOps
+5.75,ECE,10.21,2016,Netflix,QA_Engineer
+8.03,ECE,24.12,2016,Adobe,Data Science
+7.1,EEE,21.54,2016,Infosys,Data Science
+7.05,EEE,9.99,2016,Infosys,UI/UX
+5.41,EEE,19.81,2016,Google,DevOps
+7.43,CSE,24.46,2016,Adobe,Product Manager
+6.73,ECE,13.69,2016,Wipro,UI/UX
+7.44,ECE,18.3,2016,Paytm,SDE
+5.41,CSE,11.67,2016,Google,UI/UX
+7.49,EEE,25.2,2016,Microsoft,Data Science
+6.29,ME,18.09,2016,Google,DevOps
+5.95,ME,17.89,2016,TCS,SDE
+6.78,CSE,16.79,2016,TCS,SDE
+7.12,CSE,27.81,2016,Microsoft,Product Manager
+6.56,CSE,12.42,2016,Adobe,UI/UX
+6.52,CE,21.88,2016,Infosys,Product Manager
+7.49,IT,28.87,2016,Adobe,SDE
+7.19,CE,18.25,2016,Paytm,SDE
+6.68,CSE,19.2,2016,Facebook,SDE
+6.22,ECE,24.7,2016,TCS,Product Manager
+7.11,CSE,21.07,2016,Infosys,SDE
+7.2,ME,7.29,2016,Amazon,UI/UX
+7.02,ME,20.32,2016,Paytm,SDE
+6.48,ECE,22.22,2016,TCS,Product Manager
+7.78,ME,20.54,2016,Wipro,SDE
+7.22,CE,23.76,2016,Amazon,Product Manager
+7.45,EEE,16.39,2016,Adobe,SDE
+5.69,CSE,19.41,2016,Google,SDE
+6.54,EEE,12.26,2016,Netflix,DevOps
+6.48,ME,25.87,2016,Microsoft,Product Manager
+7.42,EEE,22.83,2016,Adobe,SDE
+8.5,IT,25.32,2016,Google,Data Science
+7.71,IT,11.31,2016,Microsoft,QA_Engineer
+8.39,IT,19.85,2016,Microsoft,Data Science
+5.9,CSE,19.79,2016,Amazon,UI/UX
+7.33,CSE,19.88,2016,Microsoft,SDE
+6.51,CSE,17.21,2016,Wipro,SDE
+7.51,CE,18.23,2016,Infosys,SDE
+8.23,CE,20.71,2016,Facebook,Data Science
+6.73,CSE,9.59,2016,Facebook,QA_Engineer
+5.45,IT,16.31,2016,TCS,SDE
+5.25,ME,30.52,2016,Amazon,Product Manager
+7.11,CSE,15.25,2016,Google,DevOps
+6.81,CSE,11.67,2016,Wipro,UI/UX
+6.36,ECE,15.3,2016,TCS,SDE
+7.93,EEE,8.74,2016,Paytm,QA_Engineer
+7.88,EEE,23.2,2016,Paytm,SDE
+6.85,IT,28.81,2016,Amazon,Data Science
+6.5,ME,21.47,2016,TCS,Data Science
+8.76,IT,22.05,2016,Adobe,Data Science
+7.3,ME,20.15,2016,Netflix,Data Science
+7.6,ECE,18.0,2016,Microsoft,DevOps
+5.87,EEE,28.45,2016,Facebook,Data Science
+6.86,CSE,12.45,2016,Google,SDE
+7.67,CE,21.26,2016,Adobe,SDE
+6.25,EEE,23.59,2016,Infosys,Data Science
+7.33,ME,25.1,2016,Infosys,Data Science
+7.53,CSE,13.95,2016,Amazon,UI/UX
+5.96,CSE,25.5,2016,Infosys,SDE
+7.05,IT,18.51,2016,Infosys,Data Science
+7.57,ME,18.45,2016,Facebook,SDE
+6.68,ME,22.16,2016,Adobe,SDE
+7.68,CSE,17.39,2016,Netflix,DevOps
+5.93,CE,14.34,2016,Adobe,UI/UX
+7.47,ME,17.47,2016,Wipro,DevOps
+7.11,IT,21.3,2016,TCS,Data Science
+7.38,IT,9.9,2016,Wipro,QA_Engineer
+6.76,EEE,21.5,2016,Netflix,SDE
+7.35,IT,22.85,2016,Paytm,SDE
+8.45,CSE,11.28,2016,Wipro,QA_Engineer
+6.72,ME,7.84,2016,Microsoft,UI/UX
+6.23,CSE,7.04,2016,TCS,QA_Engineer
+5.98,CE,20.02,2016,Microsoft,SDE
+6.13,CE,13.83,2016,Paytm,DevOps
+8.11,CSE,8.72,2016,Paytm,QA_Engineer
+8.11,CE,27.49,2016,Facebook,Data Science
+6.76,CE,21.95,2016,Facebook,SDE
+6.6,CSE,27.14,2016,Google,Data Science
+7.08,ECE,23.6,2016,Facebook,Product Manager
+6.54,EEE,6.6,2017,Wipro,QA_Engineer
+7.28,ECE,23.6,2017,Google,Data Science
+5.7,ME,19.11,2017,Adobe,SDE
+6.19,ME,13.79,2017,Microsoft,SDE
+5.91,IT,12.39,2017,TCS,QA_Engineer
+8.51,EEE,17.16,2017,Amazon,Data Science
+7.31,ME,24.01,2017,Microsoft,Product Manager
+6.54,CE,16.67,2017,Google,DevOps
+6.86,EEE,14.5,2017,Paytm,QA_Engineer
+7.73,CE,14.7,2017,Google,QA_Engineer
+6.54,CSE,18.74,2017,Adobe,SDE
+6.69,CE,19.38,2017,Netflix,Data Science
+7.15,ECE,8.81,2017,Microsoft,QA_Engineer
+7.54,EEE,22.14,2017,Wipro,Product Manager
+7.44,ME,10.07,2017,Netflix,UI/UX
+7.4,IT,20.33,2017,Infosys,Product Manager
+7.29,CE,15.28,2017,Wipro,SDE
+7.48,ECE,18.34,2017,Microsoft,SDE
+7.54,EEE,23.6,2017,Paytm,Data Science
+6.62,ECE,9.86,2017,Google,QA_Engineer
+8.54,ECE,25.82,2017,Facebook,Product Manager
+8.51,ME,20.67,2017,Wipro,SDE
+7.35,CE,24.48,2017,Google,Product Manager
+7.44,IT,24.44,2017,Netflix,Data Science
+6.82,ECE,25.94,2017,Infosys,Product Manager
+6.16,CSE,27.27,2017,Google,Product Manager
+6.93,CSE,19.29,2017,Paytm,Data Science
+6.19,CSE,22.56,2017,Paytm,SDE
+7.29,CSE,23.72,2017,Google,Product Manager
+6.78,CSE,13.15,2017,Paytm,QA_Engineer
+7.58,CSE,22.0,2017,Infosys,SDE
+6.87,EEE,16.43,2017,TCS,SDE
+7.1,IT,11.39,2017,Infosys,QA_Engineer
+7.48,EEE,19.74,2017,Infosys,Data Science
+5.63,ME,8.99,2017,Wipro,QA_Engineer
+6.39,ME,25.35,2017,Google,Product Manager
+7.04,EEE,21.71,2017,TCS,SDE
+6.93,CSE,10.25,2017,Paytm,QA_Engineer
+6.38,EEE,18.11,2017,Google,DevOps
+7.14,ECE,25.45,2017,Google,Product Manager
+8.82,CE,19.31,2017,Amazon,Product Manager
+5.88,CSE,19.64,2017,Amazon,DevOps
+6.83,ME,16.93,2017,Google,SDE
+7.17,ME,25.5,2017,Paytm,SDE
+6.26,CSE,28.2,2017,Wipro,Product Manager
+8.91,CE,20.75,2017,Google,Data Science
+5.64,ECE,18.36,2017,Netflix,Data Science
+7.26,ECE,27.92,2017,Infosys,Data Science
+5.99,CE,16.56,2017,Microsoft,DevOps
+7.24,CE,20.3,2017,Amazon,Data Science
+6.67,CSE,15.12,2017,Amazon,SDE
+7.44,EEE,17.1,2017,Adobe,DevOps
+7.06,CSE,21.66,2017,Netflix,Data Science
+6.53,EEE,26.25,2017,TCS,Product Manager
+6.69,ME,24.74,2017,Adobe,Product Manager
+7.9,ME,20.41,2017,Paytm,Data Science
+7.74,EEE,21.38,2017,Facebook,Data Science
+6.48,CE,19.52,2017,Microsoft,SDE
+6.5,CE,15.09,2017,Paytm,UI/UX
+6.81,EEE,21.84,2017,Google,SDE
+7.92,EEE,20.74,2017,Netflix,SDE
+7.48,CSE,19.44,2017,Wipro,Data Science
+7.96,CSE,16.59,2017,Netflix,DevOps
+7.33,ECE,21.74,2017,Wipro,Product Manager
+7.37,ECE,15.88,2017,Facebook,UI/UX
+6.36,CSE,27.38,2017,Microsoft,Product Manager
+6.67,EEE,20.44,2017,Wipro,SDE
+7.41,EEE,19.26,2017,Paytm,SDE
+6.99,CSE,24.28,2017,Amazon,Product Manager
+7.18,ME,17.36,2017,TCS,SDE
+6.53,CSE,21.66,2017,Paytm,Product Manager
+6.55,ECE,22.0,2017,Paytm,SDE
+6.53,EEE,18.01,2017,Microsoft,SDE
+8.37,ME,21.09,2017,TCS,SDE
+6.27,IT,18.99,2017,Google,SDE
+6.81,IT,16.94,2017,Google,SDE
+6.83,ECE,19.81,2017,Facebook,SDE
+6.92,EEE,11.59,2017,Amazon,QA_Engineer
+7.77,CSE,21.58,2017,Facebook,SDE
+7.19,ME,9.63,2017,Adobe,QA_Engineer
+6.99,IT,18.75,2017,Infosys,SDE
+5.92,IT,14.96,2017,Amazon,DevOps
+5.74,IT,18.22,2017,Wipro,DevOps
+7.11,ECE,9.05,2017,Amazon,UI/UX
+7.09,CE,15.11,2017,TCS,DevOps
+6.24,ME,17.32,2017,TCS,SDE
+7.53,ECE,14.36,2017,Microsoft,UI/UX
+7.49,ME,25.97,2017,Amazon,Product Manager
+6.73,CSE,12.71,2017,Facebook,DevOps
+6.72,ME,15.3,2017,Amazon,SDE
+7.04,EEE,21.13,2017,Microsoft,SDE
+5.09,CSE,13.68,2017,Netflix,UI/UX
+7.17,CSE,25.97,2017,Netflix,Data Science
+10.01,CSE,22.71,2017,TCS,Product Manager
+7.87,CSE,22.0,2017,Wipro,SDE
+8.14,CE,25.88,2017,Adobe,Data Science
+6.72,ECE,27.25,2017,Amazon,Product Manager
+6.66,CSE,10.26,2017,Facebook,QA_Engineer
+6.36,ME,17.55,2017,Amazon,DevOps
+7.71,ME,13.79,2017,Adobe,DevOps
+6.6,IT,27.42,2018,Adobe,Product Manager
+6.2,EEE,21.77,2018,Microsoft,Data Science
+6.19,CSE,10.11,2018,Wipro,UI/UX
+5.94,ME,21.05,2018,Facebook,SDE
+7.12,CE,25.98,2018,Google,Data Science
+6.59,CSE,16.63,2018,Netflix,SDE
+7.64,CE,20.91,2018,Facebook,SDE
+7.71,IT,15.84,2018,Netflix,SDE
+7.37,IT,21.79,2018,TCS,Data Science
+7.68,EEE,19.3,2018,Google,SDE
+6.43,IT,21.21,2018,Netflix,SDE
+7.35,CE,9.18,2018,Wipro,QA_Engineer
+7.21,IT,22.84,2018,Infosys,Data Science
+5.32,IT,16.98,2018,Adobe,DevOps
+7.0,CE,30.88,2018,Facebook,Product Manager
+6.26,IT,9.67,2018,Netflix,DevOps
+6.14,ME,19.88,2018,Facebook,UI/UX
+6.87,CE,20.3,2018,Facebook,SDE
+10.01,EEE,21.49,2018,Facebook,Data Science
+7.77,ECE,13.5,2018,Adobe,DevOps
+8.02,CE,17.45,2018,Adobe,SDE
+7.25,IT,24.41,2018,Microsoft,Product Manager
+7.13,ME,12.61,2018,Infosys,DevOps
+5.74,ECE,17.84,2018,Facebook,SDE
+7.47,ECE,22.27,2018,TCS,Product Manager
+8.21,CSE,8.43,2018,TCS,UI/UX
+5.83,IT,13.4,2018,Amazon,UI/UX
+6.0,ECE,28.1,2018,Facebook,Data Science
+5.49,CE,19.72,2018,Adobe,Product Manager
+7.3,IT,20.65,2018,Netflix,Data Science
+7.82,ME,10.97,2018,Microsoft,DevOps
+7.58,CE,32.37,2018,Google,Product Manager
+6.49,CE,26.28,2018,Netflix,Product Manager
+7.92,CE,24.61,2018,Facebook,Data Science
+5.7,CE,5.96,2018,Wipro,QA_Engineer
+7.04,CE,20.02,2018,TCS,SDE
+9.18,ECE,23.84,2018,Google,Product Manager
+6.11,CSE,22.55,2018,Adobe,Product Manager
+6.44,ME,20.82,2018,Paytm,SDE
+5.99,CSE,19.23,2018,Wipro,Data Science
+6.77,IT,22.83,2018,Wipro,SDE
+7.78,CE,14.5,2018,Microsoft,UI/UX
+6.86,ME,14.83,2018,Infosys,DevOps
+6.05,EEE,11.14,2018,Netflix,UI/UX
+8.4,CSE,13.27,2018,Microsoft,DevOps
+7.1,ME,26.86,2018,Infosys,Product Manager
+7.08,EEE,19.72,2018,Microsoft,SDE
+6.26,IT,27.44,2018,Paytm,Data Science
+7.49,EEE,12.37,2018,Google,UI/UX
+7.59,ECE,11.0,2018,Amazon,QA_Engineer
+6.82,EEE,26.77,2018,Google,Data Science
+7.36,IT,14.31,2018,Google,QA_Engineer
+7.34,ECE,20.87,2018,Facebook,SDE
+6.0,IT,17.69,2018,Facebook,SDE
+6.35,CSE,15.44,2018,Google,DevOps
+7.05,ECE,20.82,2018,Facebook,SDE
+7.79,ME,24.62,2018,Facebook,SDE
+7.35,EEE,23.59,2018,Google,SDE
+8.67,CE,20.02,2018,Paytm,SDE
+5.68,EEE,25.11,2018,Netflix,Product Manager
+6.73,CE,12.29,2018,Google,UI/UX
+6.16,CE,16.65,2018,Wipro,SDE
+6.32,ME,22.31,2018,Facebook,SDE
+8.32,ECE,19.12,2018,Netflix,SDE
+7.69,EEE,21.56,2018,Amazon,Data Science
+7.36,IT,21.82,2018,Facebook,SDE
+6.46,IT,22.91,2018,Paytm,Product Manager
+6.78,ECE,18.73,2018,Facebook,Data Science
+8.91,ECE,16.16,2018,Google,SDE
+7.34,ECE,7.77,2018,Netflix,QA_Engineer
+6.99,EEE,7.12,2018,Infosys,QA_Engineer
+7.1,CSE,17.5,2018,Facebook,UI/UX
+7.03,ME,19.08,2018,Microsoft,Data Science
+7.41,ME,19.01,2018,Microsoft,DevOps
+6.17,CSE,20.77,2018,Wipro,SDE
+7.42,IT,9.49,2018,Facebook,UI/UX
+5.86,EEE,22.42,2018,Facebook,SDE
+6.04,CE,14.03,2018,TCS,UI/UX
+7.79,ME,21.57,2018,Facebook,SDE
+7.88,IT,13.93,2018,Microsoft,SDE
+7.97,ECE,19.43,2018,Google,Product Manager
+6.57,CSE,16.87,2018,Google,SDE
+6.82,CSE,22.52,2018,Netflix,Product Manager
+6.7,CSE,22.68,2018,Paytm,Data Science
+6.98,ME,25.62,2018,TCS,Product Manager
+5.66,ECE,18.92,2018,Adobe,SDE
+7.35,ME,13.93,2018,Amazon,UI/UX
+7.74,ECE,29.7,2018,Infosys,Product Manager
+7.78,CSE,16.34,2018,Wipro,SDE
+6.43,ME,25.89,2018,Netflix,Data Science
+7.38,IT,25.71,2018,Wipro,Data Science
+6.98,EEE,22.8,2018,Facebook,Product Manager
+7.55,ME,12.92,2018,Paytm,QA_Engineer
+6.96,IT,8.54,2018,Netflix,UI/UX
+7.68,CE,22.35,2018,Facebook,Data Science
+6.79,CSE,30.34,2018,Microsoft,Data Science
+6.81,ME,21.59,2018,Google,SDE
+6.15,CE,18.79,2018,Adobe,SDE
+7.63,ECE,19.24,2018,Microsoft,DevOps
+7.81,IT,13.6,2018,Infosys,UI/UX
+6.0,CSE,18.02,2019,Infosys,SDE
+6.97,CE,16.2,2019,Paytm,UI/UX
+6.47,ME,22.84,2019,Infosys,SDE
+5.84,EEE,11.01,2019,Google,QA_Engineer
+7.77,ECE,6.25,2019,Microsoft,QA_Engineer
+7.98,CSE,27.77,2019,Google,Product Manager
+5.74,EEE,11.52,2019,Wipro,DevOps
+6.07,ME,20.7,2019,TCS,Data Science
+6.3,EEE,16.21,2019,Facebook,UI/UX
+8.47,CE,8.25,2019,Microsoft,UI/UX
+9.67,EEE,24.84,2019,Netflix,SDE
+6.57,IT,16.98,2019,Google,DevOps
+7.12,CSE,23.21,2019,TCS,SDE
+7.53,IT,18.09,2019,Paytm,Data Science
+7.88,CSE,16.31,2019,Wipro,DevOps
+7.14,CE,15.03,2019,Microsoft,Data Science
+8.56,ECE,21.96,2019,TCS,SDE
+7.78,ECE,12.29,2019,Infosys,DevOps
+7.02,ECE,13.91,2019,Google,DevOps
+7.39,CE,22.57,2019,Paytm,SDE
+7.01,ME,16.76,2019,Facebook,SDE
+7.48,CSE,26.78,2019,Amazon,Data Science
+6.93,EEE,12.53,2019,Microsoft,UI/UX
+6.85,EEE,9.17,2019,Amazon,QA_Engineer
+7.92,EEE,15.43,2019,Amazon,DevOps
+6.97,CE,24.59,2019,Paytm,Data Science
+8.47,ECE,17.9,2019,Adobe,SDE
+6.89,ME,23.97,2019,Infosys,Product Manager
+7.64,CE,23.51,2019,Wipro,Product Manager
+7.01,CSE,12.29,2019,Adobe,UI/UX
+7.75,ME,6.42,2019,Amazon,UI/UX
+6.73,IT,21.02,2019,Microsoft,SDE
+6.9,EEE,19.68,2019,Wipro,Data Science
+7.22,CE,17.18,2019,TCS,SDE
+7.25,IT,6.61,2019,Google,QA_Engineer
+7.31,IT,24.42,2019,Microsoft,Data Science
+5.75,EEE,24.18,2019,Adobe,SDE
+5.26,IT,21.54,2019,Paytm,SDE
+7.12,ME,24.76,2019,Amazon,SDE
+5.56,IT,23.47,2019,TCS,SDE
+5.75,ECE,24.35,2019,Amazon,Product Manager
+7.42,ECE,5.74,2019,TCS,UI/UX
+8.61,ME,25.02,2019,Facebook,Product Manager
+8.53,IT,19.49,2019,Facebook,SDE
+8.46,ECE,16.89,2019,Wipro,SDE
+7.27,ME,19.59,2019,Microsoft,Data Science
+7.41,IT,22.75,2019,Amazon,Data Science
+7.69,CSE,21.43,2019,Microsoft,Data Science
+7.02,ECE,23.95,2019,Amazon,Product Manager
+7.27,CSE,13.87,2019,Adobe,DevOps
+7.71,EEE,13.25,2019,Infosys,QA_Engineer
+6.99,CSE,22.39,2019,Microsoft,Product Manager
+6.88,CSE,21.72,2019,Amazon,SDE
+8.22,ECE,9.34,2019,Netflix,QA_Engineer
+7.08,EEE,14.7,2019,Amazon,DevOps
+7.41,ME,21.93,2019,Facebook,Data Science
+7.59,ECE,16.94,2019,Netflix,SDE
+6.57,ME,12.2,2019,Microsoft,UI/UX
+7.17,CE,9.88,2019,Google,QA_Engineer
+6.71,CSE,13.76,2019,Netflix,UI/UX
+6.2,ME,26.01,2019,Amazon,Data Science
+7.16,CSE,21.75,2019,Facebook,SDE
+7.67,CSE,11.85,2019,Paytm,QA_Engineer
+6.88,IT,17.05,2019,Infosys,Data Science
+7.64,CE,19.98,2019,Paytm,SDE
+7.78,IT,10.45,2019,Google,QA_Engineer
+8.09,EEE,14.13,2019,Google,DevOps
+7.61,CSE,18.62,2019,Paytm,SDE
+6.95,CSE,14.03,2019,Wipro,DevOps
+6.66,ECE,15.66,2019,TCS,DevOps
+7.68,ECE,21.58,2019,Amazon,SDE
+5.71,CSE,23.43,2019,Wipro,Data Science
+7.25,EEE,20.12,2019,Infosys,Data Science
+7.87,IT,19.94,2019,Facebook,SDE
+7.55,CE,11.12,2019,Google,DevOps
+8.08,ME,17.73,2019,Adobe,UI/UX
+7.32,CE,21.78,2019,Microsoft,Product Manager
+7.17,CSE,20.6,2019,Microsoft,DevOps
+7.41,CE,15.83,2019,Google,UI/UX
+6.81,CSE,21.25,2019,Netflix,SDE
+7.42,CE,6.31,2019,Microsoft,QA_Engineer
+7.09,CSE,22.8,2019,Wipro,Data Science
+6.74,IT,11.27,2019,Google,QA_Engineer
+6.78,CE,9.96,2019,Amazon,UI/UX
+6.85,CSE,4.74,2019,Google,QA_Engineer
+7.71,CSE,8.0,2019,Paytm,DevOps
+8.61,ME,24.25,2019,Adobe,Product Manager
+7.63,CE,25.19,2019,Google,Product Manager
+6.64,ME,21.21,2019,Paytm,Data Science
+7.77,ME,15.89,2019,TCS,DevOps
+8.09,ME,29.97,2019,Netflix,Product Manager
+7.35,CE,19.26,2019,Paytm,SDE
+7.41,IT,20.35,2019,Google,SDE
+7.49,IT,20.12,2019,Facebook,Data Science
+6.41,CE,21.85,2019,Netflix,SDE
+6.74,CSE,20.91,2019,Wipro,DevOps
+5.98,IT,19.83,2019,Facebook,SDE
+7.5,IT,15.63,2019,Microsoft,SDE
+7.79,CSE,11.41,2019,Wipro,DevOps
+7.69,CSE,22.85,2019,Adobe,Product Manager
+6.62,CSE,23.21,2020,Infosys,SDE
+6.09,IT,26.58,2020,Paytm,SDE
+5.52,CE,15.79,2020,Google,Data Science
+7.16,ECE,19.1,2020,Google,SDE
+6.94,CSE,19.62,2020,Infosys,Data Science
+7.65,IT,16.12,2020,Netflix,QA_Engineer
+5.98,CSE,16.67,2020,Amazon,Data Science
+8.1,ME,13.66,2020,Amazon,QA_Engineer
+7.8,CE,23.11,2020,Netflix,Data Science
+6.91,ECE,16.96,2020,Google,UI/UX
+7.69,IT,16.73,2020,Amazon,Data Science
+7.74,CE,11.4,2020,Infosys,DevOps
+6.54,ECE,21.58,2020,Microsoft,Data Science
+7.1,ECE,17.08,2020,Facebook,SDE
+8.29,EEE,22.79,2020,Infosys,SDE
+6.31,ECE,20.05,2020,Amazon,SDE
+8.06,CE,11.05,2020,TCS,DevOps
+8.66,ME,14.44,2020,Infosys,DevOps
+6.29,CE,23.41,2020,Paytm,Data Science
+6.48,EEE,23.11,2020,Google,Product Manager
+7.78,ME,20.69,2020,Facebook,DevOps
+6.15,EEE,20.85,2020,Netflix,SDE
+5.6,ECE,10.77,2020,Infosys,UI/UX
+5.54,CSE,23.03,2020,Amazon,Product Manager
+8.68,CSE,21.22,2020,Wipro,Product Manager
+7.13,EEE,12.84,2020,Netflix,DevOps
+7.56,CSE,16.37,2020,TCS,DevOps
+5.28,CE,16.33,2020,Paytm,DevOps
+5.93,CE,12.03,2020,TCS,UI/UX
+7.36,ME,19.63,2020,Google,SDE
+6.9,CSE,10.67,2020,Netflix,UI/UX
+7.39,ME,13.33,2020,Facebook,DevOps
+6.72,IT,19.9,2020,Adobe,SDE
+7.82,CSE,11.67,2020,Adobe,DevOps
+7.24,IT,27.67,2020,Amazon,Product Manager
+6.91,EEE,20.99,2020,Facebook,SDE
+5.95,ECE,24.19,2020,TCS,SDE
+7.29,IT,19.46,2020,Microsoft,UI/UX
+7.4,EEE,22.85,2020,Adobe,SDE
+5.58,ECE,22.98,2020,Paytm,Data Science
+8.17,ECE,4.63,2020,Amazon,QA_Engineer
+8.27,ME,12.62,2020,Netflix,QA_Engineer
+6.71,ECE,5.68,2020,TCS,QA_Engineer
+7.21,CE,20.91,2020,Wipro,Data Science
+6.3,CSE,9.93,2020,Adobe,UI/UX
+7.06,CE,16.56,2020,Amazon,DevOps
+6.21,IT,20.87,2020,Paytm,Product Manager
+6.87,IT,12.42,2020,Facebook,SDE
+5.81,CSE,25.14,2020,Paytm,SDE
+6.51,EEE,19.89,2020,Microsoft,SDE
+9.18,CE,13.05,2020,Adobe,UI/UX
+7.57,CE,22.75,2020,Wipro,Product Manager
+6.59,IT,22.31,2020,Netflix,Data Science
+7.03,ECE,24.81,2020,Facebook,Product Manager
+5.8,ME,30.49,2020,Facebook,Product Manager
+6.82,CE,25.31,2020,Infosys,Data Science
+6.48,EEE,14.26,2020,Facebook,UI/UX
+6.66,EEE,26.78,2020,Google,Product Manager
+6.71,EEE,24.3,2020,Microsoft,Data Science
+8.2,CE,25.17,2020,Paytm,Data Science
+6.03,CE,13.97,2020,Wipro,SDE
+7.16,EEE,21.7,2020,Microsoft,Data Science
+8.57,EEE,19.08,2020,Google,SDE
+8.13,CSE,21.96,2020,Google,SDE
+6.68,CE,18.49,2020,Netflix,SDE
+7.3,ECE,24.65,2020,TCS,Product Manager
+6.2,IT,19.2,2020,Adobe,Data Science
+7.09,ECE,19.11,2020,Microsoft,SDE
+7.53,CSE,19.88,2020,Google,SDE
+7.56,CSE,24.45,2020,Google,SDE
+6.33,CE,22.51,2020,Microsoft,SDE
+7.82,CE,17.77,2020,Adobe,DevOps
+8.57,IT,24.38,2020,Facebook,SDE
+6.9,ME,14.04,2020,Amazon,QA_Engineer
+6.75,CE,23.11,2020,Microsoft,Product Manager
+6.71,ME,20.64,2020,Microsoft,SDE
+7.12,IT,28.33,2020,Wipro,Product Manager
+7.6,ECE,25.92,2020,Netflix,SDE
+6.9,ME,19.1,2020,Microsoft,Product Manager
+6.11,IT,20.9,2020,Netflix,SDE
+6.9,ME,20.41,2020,Facebook,SDE
+8.72,IT,22.91,2020,Netflix,SDE
+6.49,CSE,23.57,2020,Paytm,DevOps
+7.14,CSE,27.18,2020,Facebook,Data Science
+8.04,CE,21.27,2020,Adobe,SDE
+8.93,IT,6.42,2020,Microsoft,QA_Engineer
+6.35,IT,10.37,2020,Paytm,UI/UX
+6.61,ME,31.62,2020,Netflix,Product Manager
+7.1,IT,23.83,2020,Paytm,Data Science
+7.38,CE,20.1,2020,Facebook,Data Science
+7.43,ECE,20.94,2020,TCS,DevOps
+8.51,IT,14.96,2020,Infosys,SDE
+6.61,ECE,23.84,2020,Amazon,Product Manager
+6.26,CSE,23.44,2020,Paytm,SDE
+7.49,CSE,21.5,2020,Adobe,SDE
+7.8,ME,18.69,2020,Netflix,SDE
+6.84,CSE,26.41,2020,TCS,Product Manager
+7.78,ECE,11.57,2020,Adobe,QA_Engineer
+6.1,ECE,21.59,2020,Facebook,Product Manager
+6.55,CE,22.15,2020,Paytm,Product Manager
+6.74,ME,22.15,2021,Wipro,SDE
+7.09,ECE,21.41,2021,Infosys,SDE
+9.24,CSE,21.62,2021,Facebook,SDE
+8.32,ME,22.06,2021,Netflix,SDE
+7.01,ECE,21.72,2021,TCS,Data Science
+7.26,CSE,23.45,2021,Wipro,Data Science
+7.22,EEE,17.47,2021,Facebook,DevOps
+7.76,CSE,20.58,2021,Facebook,SDE
+6.8,ECE,10.82,2021,Infosys,QA_Engineer
+7.34,CE,21.65,2021,Adobe,Data Science
+5.52,ECE,12.39,2021,Google,UI/UX
+6.46,EEE,20.95,2021,Netflix,Data Science
+6.96,ME,24.71,2021,Microsoft,Product Manager
+8.72,ECE,13.09,2021,Netflix,DevOps
+7.04,ECE,25.03,2021,Paytm,Product Manager
+7.66,IT,26.07,2021,Facebook,Data Science
+6.65,EEE,14.11,2021,Adobe,DevOps
+7.84,ECE,24.99,2021,TCS,Product Manager
+7.31,CE,13.92,2021,TCS,UI/UX
+8.29,ME,23.44,2021,Netflix,Data Science
+6.34,CSE,16.31,2021,Amazon,SDE
+5.42,ME,18.95,2021,Infosys,Data Science
+8.37,CE,20.5,2021,Facebook,SDE
+8.35,ME,24.05,2021,Paytm,SDE
+5.72,ECE,21.38,2021,Netflix,SDE
+8.2,ECE,16.29,2021,Paytm,SDE
+7.2,ME,20.55,2021,Amazon,DevOps
+6.96,EEE,21.88,2021,Amazon,Data Science
+7.0,EEE,21.31,2021,Infosys,SDE
+8.45,IT,19.86,2021,Netflix,SDE
+7.14,ME,12.16,2021,Microsoft,QA_Engineer
+7.04,CE,22.95,2021,Adobe,Data Science
+8.08,CE,17.97,2021,Adobe,SDE
+7.76,CE,19.68,2021,Paytm,Data Science
+7.16,CSE,17.42,2021,Google,SDE
+6.98,ECE,20.14,2021,Google,SDE
+6.42,CE,16.61,2021,Adobe,SDE
+6.62,CSE,12.83,2021,Amazon,QA_Engineer
+7.18,IT,19.86,2021,Wipro,SDE
+7.49,EEE,15.63,2021,TCS,DevOps
+6.8,ECE,17.19,2021,TCS,SDE
+6.64,CE,26.67,2021,Facebook,SDE
+6.71,EEE,23.59,2021,TCS,Product Manager
+6.22,EEE,21.19,2021,Netflix,SDE
+6.69,ME,11.88,2021,Paytm,QA_Engineer
+6.97,EEE,15.25,2021,Netflix,SDE
+8.1,IT,19.87,2021,Wipro,Data Science
+7.76,IT,19.33,2021,Amazon,Data Science
+5.86,CSE,15.67,2021,Amazon,DevOps
+7.12,CSE,15.72,2021,Microsoft,SDE
+5.86,CE,15.04,2021,Netflix,QA_Engineer
+6.96,ECE,11.32,2021,Infosys,UI/UX
+7.95,CE,19.98,2021,Amazon,Data Science
+6.56,CE,22.57,2021,Wipro,Data Science
+7.72,ME,20.27,2021,Wipro,Data Science
+6.45,ECE,11.5,2021,Facebook,DevOps
+5.85,IT,23.89,2021,Adobe,Data Science
+7.16,EEE,22.74,2021,Adobe,SDE
+7.86,ME,19.73,2021,TCS,Data Science
+6.48,IT,23.48,2021,Amazon,Product Manager
+8.23,EEE,27.25,2021,Amazon,Product Manager
+6.33,ECE,14.89,2021,Paytm,DevOps
+6.14,ME,20.2,2021,Facebook,SDE
+7.58,CSE,20.17,2021,Microsoft,SDE
+6.62,CE,20.27,2021,TCS,Data Science
+6.72,ECE,20.02,2021,Facebook,Data Science
+6.8,ECE,16.41,2021,Netflix,DevOps
+6.05,IT,20.33,2021,Google,SDE
+7.13,ECE,26.68,2021,Google,Product Manager
+6.98,ECE,23.83,2021,Paytm,Data Science
+6.91,CE,29.33,2021,Facebook,Product Manager
+6.11,EEE,21.94,2021,Infosys,Data Science
+5.81,ECE,14.44,2021,Paytm,UI/UX
+7.37,CSE,24.58,2021,Adobe,SDE
+7.44,IT,11.66,2021,Google,QA_Engineer
+7.5,ME,18.61,2021,Paytm,SDE
+8.14,ME,21.72,2021,Wipro,SDE
+6.44,IT,10.97,2021,Netflix,QA_Engineer
+7.69,ME,14.55,2021,Google,DevOps
+8.16,IT,14.65,2021,Google,DevOps
+6.82,ME,19.63,2021,Infosys,SDE
+6.11,IT,15.49,2021,Wipro,DevOps
+6.56,IT,24.89,2021,TCS,Product Manager
+8.07,ME,13.77,2021,Facebook,QA_Engineer
+6.99,IT,21.27,2021,Infosys,SDE
+6.77,EEE,26.87,2021,Google,Product Manager
+7.03,CSE,12.65,2021,Facebook,QA_Engineer
+7.81,IT,16.79,2021,Microsoft,SDE
+7.6,EEE,26.71,2021,Wipro,Product Manager
+6.12,ME,20.65,2021,Adobe,Data Science
+6.64,ME,9.29,2021,Wipro,QA_Engineer
+6.95,EEE,22.64,2021,Facebook,Data Science
+5.72,CE,19.08,2021,Amazon,SDE
+6.73,EEE,16.48,2021,TCS,DevOps
+7.02,IT,18.34,2021,Google,SDE
+7.76,IT,19.47,2021,Amazon,SDE
+7.6,IT,13.06,2021,Microsoft,SDE
+7.41,CSE,18.68,2021,Microsoft,SDE
+6.63,IT,19.88,2021,Adobe,Data Science
+6.46,IT,23.18,2021,Google,Product Manager
+6.81,ECE,3.79,2024,Infosys,QA_Engineer
+7.04,CE,19.03,2023,Microsoft,SDE
+6.33,EEE,32.05,2024,Paytm,UI/UX
+8.03,IT,8.3,2024,Adobe,DevOps
+8.92,CSE,15.28,2024,Wipro,SDE
+8.85,CSE,19.31,2023,Infosys,Business_Analyst
+8.98,EEE,36.32,2024,Paytm,DevOps
+6.02,ECE,30.22,2023,Google,DevOps
+8.98,IT,24.17,2023,Google,QA_Engineer
+8.64,CSE,6.12,2023,TCS,Product Manager
+6.96,CE,29.49,2023,Adobe,QA_Engineer
+10.0,CSE,17.63,2023,Infosys,Business_Analyst
+8.85,IT,5.87,2023,Adobe,UI/UX
+7.11,CSE,8.2,2024,Microsoft,Data Science
+7.4,IT,25.57,2024,Amazon,Data Science
+5.0,CE,24.02,2023,IBM,UI/UX
+8.44,EEE,27.22,2023,Paytm,DevOps
+7.34,BT,19.16,2023,Amazon,UI/UX
+5.9,CSE,29.12,2024,Amazon,Product Manager
+7.97,IT,33.3,2024,IBM,SDE
+6.9,BT,14.77,2024,TCS,QA_Engineer
+6.72,CSE,11.5,2024,Wipro,Product Manager
+5.1,CE,25.95,2024,Adobe,Business_Analyst
+6.61,EEE,33.58,2024,IBM,DevOps
+9.77,IT,28.12,2023,TCS,DevOps
+5.21,IT,13.23,2023,Infosys,Product Manager
+8.12,EEE,7.9,2024,Amazon,Data Science
+6.46,CSE,22.49,2024,Google,DevOps
+8.58,IT,12.64,2024,Adobe,Business_Analyst
+7.61,BT,39.67,2023,Wipro,Business_Analyst
+6.79,EEE,33.93,2024,Paytm,UI/UX
+6.86,ECE,38.17,2024,Infosys,DevOps
+9.37,CSE,28.66,2024,TCS,SDE
+9.72,ME,23.15,2023,Infosys,QA_Engineer
+8.92,CE,29.1,2024,Amazon,UI/UX
+9.95,IT,14.54,2024,Infosys,Product Manager
+8.05,CSE,10.18,2023,Paytm,Business_Analyst
+6.65,CE,19.27,2023,Wipro,Business_Analyst
+7.34,CSE,26.31,2023,IBM,Product Manager
+7.16,IT,16.21,2023,Microsoft,QA_Engineer
+6.49,CE,3.52,2023,Google,SDE
+8.85,BT,17.8,2023,IBM,UI/UX
+8.11,ECE,3.64,2024,TCS,QA_Engineer
+7.06,CE,30.86,2024,TCS,Data Science
+6.6,ME,19.55,2024,Flipkart,Data Science
+5.01,CSE,27.78,2023,Google,Product Manager
+5.99,EEE,38.18,2024,Amazon,Data Science
+9.62,CE,9.45,2023,Adobe,Product Manager
+7.15,EEE,29.48,2024,Flipkart,Data Science
+5.79,IT,19.12,2024,Adobe,Product Manager
+8.93,ME,32.23,2024,Flipkart,UI/UX
+6.72,CE,22.89,2024,Amazon,Product Manager
+9.82,CE,7.51,2023,IBM,UI/UX
+7.36,EEE,33.17,2024,IBM,Product Manager
+6.7,ME,13.37,2024,TCS,SDE
+6.6,ME,24.08,2023,Paytm,SDE
+6.7,EEE,28.05,2024,Wipro,Data Science
+9.11,BT,16.8,2023,TCS,Business_Analyst
+9.1,CE,5.93,2024,Paytm,DevOps
+6.76,ME,39.06,2024,Amazon,Business_Analyst
+5.54,CSE,16.67,2024,Google,QA_Engineer
+8.34,ME,8.35,2023,Infosys,SDE
+9.22,ECE,22.68,2024,Adobe,UI/UX
+9.26,EEE,25.11,2023,Paytm,QA_Engineer
+8.18,ECE,14.8,2023,IBM,QA_Engineer
+5.47,ECE,10.35,2023,Flipkart,QA_Engineer
+7.4,CSE,19.14,2024,Flipkart,QA_Engineer
+6.28,ME,24.31,2023,Wipro,SDE
+5.87,CE,25.32,2023,Flipkart,Data Science
+5.48,CSE,17.6,2024,TCS,DevOps
+5.77,IT,17.89,2023,Infosys,QA_Engineer
+5.26,IT,26.21,2024,Flipkart,Product Manager
+5.42,ECE,16.73,2023,Wipro,UI/UX
+5.45,CSE,39.48,2024,Microsoft,QA_Engineer
+8.52,EEE,12.11,2023,Adobe,Business_Analyst
+9.85,BT,20.76,2024,Wipro,Data Science
+7.51,CSE,15.45,2024,Amazon,UI/UX
+6.11,ME,16.61,2024,Infosys,Data Science
+8.55,IT,29.05,2024,Amazon,UI/UX
+5.5,ECE,35.64,2023,Google,UI/UX
+9.4,ME,5.06,2023,Infosys,QA_Engineer
+6.7,CSE,18.96,2023,Wipro,DevOps
+8.16,EEE,26.02,2024,Flipkart,Product Manager
+7.66,CE,8.93,2023,Wipro,QA_Engineer
+6.15,CE,36.29,2023,Flipkart,DevOps
+6.7,CE,30.77,2024,IBM,Business_Analyst
+5.72,CE,36.32,2024,Google,Data Science
+5.73,IT,37.76,2024,TCS,Product Manager
+8.78,ME,36.3,2023,Infosys,DevOps
+5.96,CE,13.97,2023,Infosys,Business_Analyst
+8.04,EEE,35.92,2023,Wipro,UI/UX
+9.07,EEE,20.26,2023,Adobe,Data Science
+8.23,IT,10.45,2023,IBM,SDE
+9.11,ECE,27.03,2024,TCS,Data Science
+5.41,ECE,9.58,2023,Paytm,Business_Analyst
+7.87,ME,32.48,2023,Paytm,SDE
+9.07,ECE,12.69,2023,IBM,QA_Engineer
+8.33,BT,31.74,2024,IBM,Product Manager
+6.02,ME,26.39,2024,Adobe,SDE
+9.45,EEE,4.66,2023,Paytm,SDE
+8.8,CE,14.06,2023,Wipro,Business_Analyst
+6.58,ECE,11.02,2023,Google,Data Science
+6.25,ECE,36.92,2024,IBM,Product Manager
+6.71,IT,10.23,2023,Infosys,Data Science
+8.89,IT,29.52,2023,IBM,Business_Analyst
+5.53,CE,3.94,2024,IBM,Business_Analyst
+9.3,EEE,28.88,2024,Wipro,DevOps
+8.86,CE,23.94,2024,Amazon,SDE
+8.86,ME,11.2,2023,TCS,Business_Analyst
+7.17,CE,15.05,2023,Infosys,Business_Analyst
+6.41,IT,3.33,2023,Wipro,Product Manager
+6.23,EEE,33.95,2024,TCS,Business_Analyst
+6.79,IT,6.94,2024,TCS,Business_Analyst
+5.44,BT,16.56,2024,Adobe,QA_Engineer
+7.75,ME,35.48,2024,Microsoft,Business_Analyst
+8.65,BT,31.23,2023,Microsoft,QA_Engineer
+7.13,EEE,24.27,2024,IBM,DevOps
+9.79,BT,14.89,2023,Paytm,Business_Analyst
+6.14,BT,7.18,2024,Amazon,Business_Analyst
+7.14,CSE,6.91,2023,Flipkart,Business_Analyst
+5.72,EEE,14.76,2024,IBM,SDE
+6.73,IT,25.06,2023,Paytm,UI/UX
+6.96,ME,30.93,2023,IBM,Data Science
+9.26,EEE,19.37,2023,Amazon,Product Manager
+9.89,CSE,24.38,2024,Microsoft,Product Manager
+5.96,CSE,27.3,2023,Amazon,DevOps
+6.3,IT,14.1,2024,Paytm,Data Science
+7.88,ECE,22.46,2023,Flipkart,Business_Analyst
+6.43,CE,5.71,2023,IBM,Product Manager
+5.67,ECE,4.3,2023,IBM,Business_Analyst
+8.22,EEE,34.21,2024,Microsoft,UI/UX
+5.63,BT,35.81,2024,Google,QA_Engineer
+5.59,CE,7.78,2024,TCS,Product Manager
+9.69,EEE,14.99,2023,Adobe,DevOps
+6.45,CSE,23.6,2024,TCS,UI/UX
+9.47,CE,20.98,2024,TCS,QA_Engineer
+9.38,ECE,35.46,2024,Paytm,UI/UX
+9.94,ME,3.87,2024,Microsoft,Data Science
+5.64,EEE,29.03,2023,Flipkart,Business_Analyst
+5.17,CSE,31.64,2024,Microsoft,SDE
+7.78,ME,8.27,2024,Google,UI/UX
+6.79,CE,27.07,2023,Wipro,Business_Analyst
+6.31,CE,23.5,2023,IBM,SDE
+8.61,IT,10.05,2023,Wipro,QA_Engineer
+9.92,CSE,21.96,2023,Paytm,DevOps
+5.84,EEE,9.28,2023,IBM,Product Manager
+5.12,IT,18.85,2024,Infosys,DevOps
+5.95,ME,30.0,2024,IBM,Data Science
+9.81,IT,26.96,2024,Google,Business_Analyst
+8.54,CE,31.75,2023,Adobe,Business_Analyst
+5.68,ME,12.17,2023,Flipkart,DevOps
+6.24,ECE,18.95,2024,Adobe,DevOps
+9.29,BT,38.28,2024,Microsoft,SDE
+6.33,IT,8.96,2023,Adobe,Data Science
+9.96,BT,29.82,2023,Microsoft,Business_Analyst
+8.1,ECE,3.99,2023,IBM,QA_Engineer
+8.18,CSE,18.2,2024,TCS,Business_Analyst
+9.12,IT,34.03,2023,Infosys,Data Science
+9.32,CSE,27.84,2023,Adobe,SDE
+7.99,CSE,19.67,2024,IBM,SDE
+5.45,ME,16.02,2023,Microsoft,DevOps
+9.18,ECE,26.07,2023,Paytm,DevOps
+7.06,ECE,17.44,2023,Infosys,UI/UX
+5.63,ME,6.1,2023,Microsoft,DevOps
+9.89,ME,6.6,2023,Flipkart,SDE
+8.55,BT,30.88,2023,Amazon,UI/UX
+5.59,ECE,27.77,2023,IBM,SDE
+9.33,IT,25.46,2024,Infosys,SDE
+8.96,IT,7.6,2023,Google,QA_Engineer
+7.52,IT,31.81,2024,Infosys,Product Manager
+7.74,IT,9.93,2024,IBM,Product Manager
+8.8,ME,18.67,2024,Wipro,DevOps
+6.13,BT,39.83,2023,Amazon,DevOps
+7.03,ME,23.54,2023,Adobe,SDE
+6.08,CSE,35.68,2023,Microsoft,Product Manager
+9.11,EEE,14.83,2024,Amazon,Business_Analyst
+5.73,CE,19.28,2023,Flipkart,QA_Engineer
+9.09,IT,15.46,2023,Amazon,UI/UX
+8.62,CE,7.94,2024,Microsoft,Business_Analyst
+6.23,CSE,23.41,2023,Paytm,Product Manager
+8.29,CSE,36.63,2024,IBM,UI/UX
+8.59,ME,23.56,2023,Flipkart,Business_Analyst
+7.69,BT,12.67,2023,Flipkart,DevOps
+9.1,ME,22.25,2023,TCS,DevOps
+5.41,IT,18.88,2024,Infosys,UI/UX
+9.47,IT,18.99,2023,Microsoft,Product Manager
+7.76,ECE,23.13,2024,Google,Data Science
+9.62,BT,23.93,2024,Infosys,SDE
+7.6,IT,34.41,2023,Wipro,QA_Engineer
+7.04,IT,7.7,2024,Wipro,Business_Analyst
+9.83,CSE,25.73,2023,Paytm,Business_Analyst
+6.72,IT,26.91,2024,Microsoft,Data Science
+5.23,EEE,8.49,2023,Wipro,SDE
+8.63,ECE,37.49,2024,Google,UI/UX
+5.05,ME,25.66,2023,Amazon,SDE
+9.22,BT,10.39,2023,Microsoft,Business_Analyst
+7.08,ME,3.4,2024,IBM,Data Science
+7.85,EEE,24.15,2024,Wipro,DevOps
+5.48,IT,31.03,2024,Wipro,Product Manager
+7.57,ECE,30.0,2023,IBM,Business_Analyst
+6.59,CE,36.67,2023,Paytm,SDE
+8.97,CE,10.96,2024,Wipro,QA_Engineer
+9.27,ME,33.95,2023,IBM,DevOps
+6.91,EEE,14.56,2023,Microsoft,UI/UX
+7.82,EEE,16.09,2024,Google,SDE
+8.81,ECE,20.32,2024,Infosys,DevOps
+7.75,ECE,14.13,2023,Wipro,DevOps
+7.91,BT,34.92,2024,Flipkart,DevOps
+9.92,ECE,19.07,2023,Microsoft,SDE
+9.82,CSE,25.2,2024,Amazon,SDE
+6.81,ME,37.83,2023,IBM,Data Science
+8.98,ECE,3.13,2024,Flipkart,Business_Analyst
+9.79,BT,22.52,2024,Wipro,DevOps
+6.09,CE,28.91,2024,TCS,QA_Engineer
+5.57,BT,10.29,2024,Amazon,QA_Engineer
+6.61,CE,29.55,2023,TCS,Business_Analyst
+8.34,CSE,3.37,2024,TCS,Business_Analyst
+7.19,CE,3.77,2023,Adobe,DevOps
+6.57,ME,29.23,2024,Infosys,DevOps
+9.86,IT,13.98,2024,Microsoft,UI/UX
+7.52,IT,38.4,2023,Flipkart,Data Science
+9.69,IT,24.92,2024,TCS,Business_Analyst
+5.44,CSE,11.32,2024,Flipkart,Product Manager
+5.83,CE,31.96,2023,TCS,QA_Engineer
+8.0,ECE,37.31,2024,Google,QA_Engineer
+5.15,ME,25.77,2024,TCS,Data Science
+8.59,BT,29.15,2023,Flipkart,Data Science
+5.0,ECE,24.81,2023,IBM,UI/UX
+8.06,CSE,16.71,2024,Infosys,Data Science
+6.32,BT,22.27,2024,Paytm,QA_Engineer
+6.34,IT,32.36,2023,Flipkart,UI/UX
+5.27,ECE,5.42,2024,Flipkart,DevOps
+9.34,CE,22.01,2024,Wipro,Data Science
+8.15,BT,39.91,2024,Infosys,Data Science
+5.22,EEE,6.94,2024,Infosys,Product Manager
+6.26,BT,34.31,2023,Infosys,Product Manager
+6.28,BT,35.15,2023,Infosys,DevOps
+7.43,IT,22.29,2024,Google,Product Manager
+5.24,ME,10.07,2023,Adobe,Product Manager
+8.84,CSE,25.77,2023,Microsoft,Business_Analyst
+9.43,CSE,23.14,2024,Microsoft,QA_Engineer
+5.67,CE,25.42,2024,Paytm,Business_Analyst
+6.07,IT,21.09,2023,Google,DevOps
+9.37,CSE,18.62,2024,TCS,Product Manager
+9.51,CE,39.5,2024,IBM,Product Manager
+5.21,ECE,32.17,2024,Flipkart,DevOps
+5.29,ME,39.02,2023,Adobe,SDE
+9.51,CE,15.31,2023,Flipkart,DevOps
+8.22,ME,20.7,2024,Infosys,UI/UX
+6.25,BT,17.96,2023,TCS,Business_Analyst
+7.19,CE,19.06,2023,Infosys,Business_Analyst
+8.01,IT,17.9,2023,Microsoft,Data Science
+7.19,IT,26.39,2023,Flipkart,UI/UX
+9.99,EEE,30.81,2023,Paytm,Data Science
+5.93,CSE,5.46,2024,Adobe,DevOps
+7.56,CE,38.48,2024,Infosys,UI/UX
+5.89,ME,20.98,2023,IBM,Product Manager
+9.62,BT,14.12,2024,Amazon,SDE
+7.97,BT,9.16,2024,IBM,Data Science
+9.71,CE,39.06,2023,Google,UI/UX
+6.47,CSE,33.08,2023,Google,Data Science
+9.1,CE,33.95,2023,Google,DevOps
+7.49,EEE,30.94,2024,Paytm,SDE
+6.56,ECE,5.49,2023,Wipro,QA_Engineer
+6.58,CSE,29.11,2024,Amazon,Business_Analyst
+8.6,ECE,8.34,2023,Flipkart,Product Manager
+8.6,ME,28.65,2023,Wipro,SDE
+8.74,IT,9.36,2024,TCS,UI/UX
+8.45,ME,3.32,2023,Paytm,QA_Engineer
+5.19,CSE,3.94,2024,Infosys,SDE
+7.12,ECE,39.66,2024,Paytm,UI/UX
+6.81,ME,24.15,2023,Flipkart,Product Manager
+5.94,BT,21.84,2023,Amazon,SDE
+5.85,ME,8.38,2024,Wipro,DevOps
+7.84,CSE,18.37,2024,Amazon,Business_Analyst
+6.67,CSE,28.43,2023,TCS,DevOps
+5.8,ME,39.3,2023,Infosys,Data Science
+9.58,ME,16.93,2024,Wipro,DevOps
+5.22,EEE,4.55,2024,Infosys,QA_Engineer
+5.09,EEE,34.49,2023,Microsoft,Data Science
+9.25,BT,31.47,2024,Adobe,SDE
+8.12,CE,24.17,2023,TCS,Business_Analyst
+9.1,BT,28.2,2024,TCS,DevOps
+8.19,CSE,38.3,2024,Google,DevOps
+9.08,CSE,34.62,2023,Flipkart,QA_Engineer
+6.54,EEE,33.92,2024,Adobe,UI/UX
+6.33,IT,7.48,2024,Wipro,Business_Analyst
+6.19,IT,28.44,2023,Amazon,Business_Analyst
+8.57,CSE,7.48,2024,Infosys,Data Science
+8.36,EEE,32.99,2023,Wipro,DevOps
+8.9,EEE,23.12,2023,TCS,UI/UX
+9.11,EEE,15.28,2023,Paytm,Data Science
+5.58,EEE,3.11,2023,Adobe,Data Science
+6.73,ECE,14.06,2024,Infosys,Product Manager
+7.31,CSE,23.71,2023,Google,QA_Engineer
+6.47,IT,18.11,2023,Amazon,UI/UX
+8.69,BT,35.23,2024,Paytm,Product Manager
+5.17,CE,26.88,2024,Paytm,QA_Engineer
+5.75,EEE,31.78,2024,TCS,UI/UX
+8.07,ECE,20.25,2024,Adobe,Business_Analyst
+9.21,BT,37.55,2023,IBM,QA_Engineer
+6.95,ECE,17.22,2023,TCS,Data Science
+7.55,IT,34.7,2023,Flipkart,QA_Engineer
+8.95,EEE,14.53,2023,Amazon,Product Manager
+5.81,ME,18.82,2023,Adobe,Business_Analyst
+7.62,ECE,15.6,2023,Microsoft,UI/UX
+9.11,BT,14.35,2023,Flipkart,UI/UX
+8.71,ME,35.87,2023,TCS,DevOps
+5.09,CSE,15.75,2024,Google,Product Manager
+8.13,ME,29.46,2023,Google,DevOps
+7.13,BT,32.47,2024,IBM,DevOps
+6.63,ME,12.74,2023,Wipro,Data Science
+5.96,ECE,33.64,2024,Infosys,UI/UX
+9.82,EEE,34.47,2024,Infosys,Business_Analyst
+9.36,IT,27.03,2024,Microsoft,Product Manager
+6.62,CSE,17.12,2023,Google,QA_Engineer
+5.63,IT,5.3,2024,Paytm,DevOps
+9.89,ECE,12.16,2024,Adobe,Data Science
+8.47,IT,14.47,2024,IBM,Data Science
+8.16,BT,30.59,2023,Flipkart,Business_Analyst
+6.56,BT,8.25,2023,IBM,Business_Analyst
+5.76,ECE,37.69,2023,IBM,QA_Engineer
+5.07,EEE,33.63,2024,Wipro,Business_Analyst
+7.36,EEE,21.11,2023,IBM,DevOps
+9.6,IT,37.05,2024,IBM,Product Manager
+5.95,IT,23.68,2024,Wipro,UI/UX
+5.79,ECE,6.32,2024,Flipkart,Data Science
+7.77,CSE,20.43,2023,Adobe,Data Science
+5.61,EEE,13.1,2024,Google,Product Manager
+8.75,BT,22.77,2023,Paytm,Product Manager
+7.66,ECE,39.89,2024,Google,Data Science
+7.74,IT,34.97,2024,Flipkart,QA_Engineer
+7.67,ECE,28.91,2024,Microsoft,DevOps
+7.38,EEE,10.46,2024,Microsoft,Data Science
+5.24,BT,7.85,2023,IBM,Business_Analyst
+7.2,BT,36.11,2023,Adobe,UI/UX
+7.58,IT,28.11,2023,Flipkart,UI/UX
+9.22,BT,27.41,2024,Microsoft,QA_Engineer
+8.88,ME,19.17,2024,Infosys,QA_Engineer
+5.93,CE,15.74,2023,IBM,DevOps
+8.26,CSE,10.92,2023,IBM,Business_Analyst
+7.12,IT,38.61,2024,Flipkart,Business_Analyst
+5.25,CSE,26.18,2024,Flipkart,Business_Analyst
+9.29,BT,15.29,2023,Wipro,UI/UX
+9.08,ME,11.38,2024,IBM,DevOps
+5.69,CE,21.55,2024,Flipkart,Business_Analyst
+8.2,EEE,21.44,2024,IBM,SDE
+9.19,EEE,23.33,2024,Google,QA_Engineer
+8.23,EEE,4.89,2024,Adobe,UI/UX
+8.83,ME,29.48,2024,Flipkart,Data Science
+6.02,CE,27.53,2023,Microsoft,QA_Engineer
+8.79,EEE,27.63,2023,Infosys,Product Manager
+8.33,EEE,27.44,2024,Wipro,QA_Engineer
+6.85,CSE,18.86,2023,TCS,SDE
+8.79,ECE,38.71,2023,Google,Business_Analyst
+5.9,BT,22.82,2024,Adobe,Data Science
+8.2,EEE,32.78,2024,IBM,Business_Analyst
+7.06,EEE,13.4,2024,IBM,SDE
+7.36,ECE,36.99,2023,Infosys,UI/UX
+9.89,IT,5.05,2023,TCS,UI/UX
+8.48,ME,39.0,2024,Google,Product Manager
+9.98,IT,16.84,2023,Flipkart,UI/UX
+9.1,CSE,10.45,2024,IBM,SDE
+7.51,ECE,13.95,2023,Google,SDE
+7.24,ME,19.69,2023,Wipro,Product Manager
+6.93,CE,21.52,2023,Google,Business_Analyst
+9.68,EEE,15.1,2024,Adobe,UI/UX
+9.21,ECE,10.99,2023,Google,DevOps
+5.29,CSE,19.14,2024,IBM,Product Manager
+7.11,IT,20.87,2024,Flipkart,UI/UX
+7.7,IT,12.83,2024,Amazon,QA_Engineer
+7.92,IT,11.88,2023,Microsoft,SDE
+8.97,BT,4.46,2023,Paytm,Business_Analyst
+7.74,ME,27.93,2023,Flipkart,DevOps
+8.47,CE,27.56,2024,Paytm,DevOps
+7.02,ME,16.21,2024,Infosys,SDE
+6.27,ME,23.96,2023,Paytm,UI/UX
+7.11,CE,15.91,2024,Adobe,SDE
+8.48,IT,27.07,2023,Flipkart,Product Manager
+8.0,EEE,33.64,2023,Microsoft,Data Science
+9.86,IT,3.67,2024,Adobe,SDE
+9.11,BT,35.81,2023,Wipro,Data Science
+5.39,ECE,34.85,2023,Flipkart,Data Science
+7.65,IT,34.53,2024,IBM,DevOps
+9.89,ME,4.72,2023,Infosys,Product Manager
+7.69,CE,8.88,2023,Adobe,Data Science
+5.96,IT,7.55,2023,Infosys,DevOps
+8.71,EEE,34.07,2024,TCS,Business_Analyst
+7.69,CE,27.52,2024,Adobe,Data Science
+8.59,ME,4.56,2023,Flipkart,DevOps
+8.99,BT,15.82,2024,Amazon,Business_Analyst
+9.37,CSE,34.75,2024,TCS,DevOps
+8.68,ME,18.81,2024,TCS,QA_Engineer
+7.48,EEE,19.41,2024,Wipro,SDE
+5.12,BT,24.41,2024,Adobe,QA_Engineer
+6.02,EEE,11.46,2024,Wipro,UI/UX
+9.22,IT,13.28,2024,Infosys,SDE
+5.92,BT,39.0,2023,TCS,Data Science
+9.11,EEE,5.12,2023,Amazon,DevOps
+8.31,ME,12.21,2024,Microsoft,Data Science
+5.91,ECE,20.4,2023,Wipro,SDE
+8.47,ECE,29.78,2024,Infosys,DevOps
+7.73,BT,10.32,2024,Infosys,UI/UX
+6.83,EEE,8.27,2024,Flipkart,Business_Analyst
+8.22,BT,8.1,2023,Adobe,Business_Analyst
+5.21,CSE,32.04,2024,IBM,UI/UX
+7.23,CE,15.73,2023,Google,Product Manager
+9.04,EEE,35.3,2023,Paytm,SDE
+7.12,ME,9.51,2023,Infosys,Data Science
+6.16,CE,18.91,2023,IBM,UI/UX
+9.31,IT,34.6,2024,Flipkart,QA_Engineer
+6.18,CE,13.23,2023,Adobe,Product Manager
+9.07,EEE,6.56,2023,Amazon,DevOps
+8.97,CE,27.55,2023,Infosys,UI/UX
+8.74,ME,11.55,2024,Amazon,DevOps
+9.15,CE,38.58,2023,IBM,QA_Engineer
+8.8,ECE,22.45,2023,Wipro,Business_Analyst
+7.7,EEE,27.98,2023,Paytm,SDE
+8.63,IT,32.18,2023,Google,UI/UX
+6.53,CSE,39.12,2023,Google,QA_Engineer
+8.03,ME,18.48,2024,Adobe,Product Manager
+8.2,BT,26.25,2023,Amazon,UI/UX
+9.07,CSE,3.56,2024,Google,Data Science
+6.53,CE,27.46,2023,Wipro,QA_Engineer
+7.34,IT,28.33,2023,IBM,SDE
+6.32,BT,39.47,2023,Infosys,Business_Analyst
+9.31,CE,5.16,2023,IBM,QA_Engineer
+8.92,CE,4.33,2023,Amazon,Business_Analyst
+6.86,EEE,24.75,2024,Infosys,QA_Engineer
+6.66,IT,14.22,2024,TCS,Product Manager
+5.11,ME,26.23,2024,Paytm,DevOps
+7.29,IT,9.07,2023,Adobe,SDE
+9.23,ME,27.73,2024,Flipkart,QA_Engineer
+9.79,BT,9.14,2024,Paytm,Product Manager
+7.73,CE,22.73,2024,Infosys,QA_Engineer
+7.46,ECE,12.14,2024,Paytm,DevOps
+5.82,IT,13.49,2024,Infosys,UI/UX
+8.2,IT,28.31,2024,IBM,SDE
+6.49,ME,24.82,2024,Google,QA_Engineer
+9.9,ECE,6.08,2023,Flipkart,QA_Engineer
+8.03,ECE,34.5,2023,Infosys,Data Science
+8.69,ME,20.79,2023,Infosys,Data Science
+6.54,CE,23.75,2023,Flipkart,Business_Analyst
+6.44,BT,10.95,2023,Flipkart,Business_Analyst
+7.41,ME,7.31,2023,IBM,Data Science
+8.08,ME,17.24,2024,Amazon,Data Science
+6.93,EEE,26.29,2024,Microsoft,Business_Analyst
+7.74,ME,20.85,2023,Paytm,SDE
+7.42,ECE,15.67,2023,Adobe,Business_Analyst
+8.9,IT,18.96,2023,Infosys,Data Science
+6.03,IT,9.8,2023,Flipkart,Product Manager
+7.91,ME,39.99,2023,Microsoft,Data Science
+8.08,ECE,8.69,2024,Amazon,SDE
+5.55,BT,38.17,2023,Paytm,UI/UX
+5.35,IT,21.82,2024,Infosys,DevOps
+6.17,BT,28.23,2023,Google,QA_Engineer
+7.19,ME,13.09,2024,Microsoft,DevOps
+5.65,ECE,39.3,2023,Google,SDE
+9.89,CSE,17.4,2024,IBM,Product Manager
+9.0,IT,23.44,2024,Google,UI/UX
+5.21,CE,19.87,2023,Amazon,QA_Engineer
+7.01,BT,35.91,2023,Paytm,Business_Analyst
+5.18,CSE,18.56,2023,IBM,Data Science
+7.91,CE,35.48,2024,Amazon,UI/UX
+6.04,BT,12.43,2023,Amazon,UI/UX
+6.47,EEE,32.93,2023,TCS,DevOps
+7.76,ME,16.19,2023,Adobe,QA_Engineer
+7.57,CE,31.89,2024,TCS,UI/UX
+8.11,ECE,8.34,2023,Paytm,UI/UX
+7.52,BT,35.86,2024,Wipro,Product Manager
+6.99,EEE,15.75,2024,Paytm,UI/UX
+5.93,BT,36.14,2024,Wipro,SDE
+6.5,CSE,32.92,2023,Amazon,Business_Analyst
+8.28,ME,28.56,2023,TCS,QA_Engineer
+6.46,ECE,10.85,2024,Paytm,UI/UX
+6.5,ECE,13.52,2024,IBM,Business_Analyst
+7.83,CSE,17.83,2023,Flipkart,QA_Engineer
+5.75,CSE,21.28,2023,Adobe,SDE
+6.97,CSE,16.85,2024,Paytm,Business_Analyst
+8.43,BT,39.84,2024,Adobe,QA_Engineer
+5.75,ME,30.59,2024,Google,Data Science
+5.19,ME,31.67,2024,Google,Data Science
+5.04,CE,26.9,2024,TCS,QA_Engineer
+7.9,BT,8.05,2023,IBM,DevOps
+8.94,EEE,35.33,2023,IBM,DevOps
+5.23,CE,22.5,2024,Google,SDE
+9.15,EEE,14.0,2024,Paytm,DevOps
+7.27,BT,9.67,2023,IBM,Product Manager
+8.38,CE,30.07,2024,Wipro,QA_Engineer
+8.17,CE,6.0,2024,Infosys,QA_Engineer
+8.04,BT,29.41,2024,Wipro,DevOps
+5.2,BT,9.72,2024,Wipro,Business_Analyst
+9.51,ME,35.18,2023,Google,SDE
+9.39,CSE,6.15,2024,Adobe,Business_Analyst
+6.79,CSE,3.54,2023,TCS,UI/UX
+6.77,ME,31.49,2024,Infosys,QA_Engineer
+6.38,CE,22.75,2023,Microsoft,QA_Engineer
+9.54,CSE,24.54,2023,Infosys,SDE
+8.75,ME,37.66,2024,Microsoft,UI/UX
+7.96,ECE,16.18,2023,Infosys,Business_Analyst
+8.99,ME,39.63,2023,Infosys,UI/UX
+9.68,BT,37.64,2023,Paytm,Product Manager
+8.16,CE,37.09,2024,Flipkart,QA_Engineer
+6.73,EEE,37.52,2023,IBM,QA_Engineer
+5.72,ME,27.07,2023,TCS,Business_Analyst
+7.21,CSE,30.19,2024,Infosys,SDE
+9.96,IT,26.87,2024,Microsoft,Data Science
+8.22,IT,31.46,2023,Flipkart,DevOps
+7.76,ECE,34.75,2024,Adobe,Business_Analyst
+9.27,CSE,36.97,2024,Wipro,QA_Engineer
+6.03,ME,33.73,2023,Google,DevOps
+9.57,CSE,18.05,2024,Flipkart,QA_Engineer
+8.57,BT,11.39,2024,Adobe,DevOps
+8.35,ECE,6.0,2024,Flipkart,UI/UX
+9.83,ECE,23.09,2023,Google,SDE
+5.33,EEE,26.9,2024,Amazon,DevOps
+9.18,EEE,8.73,2024,Amazon,Business_Analyst
+6.98,ME,21.78,2024,Amazon,DevOps
+5.01,BT,14.68,2024,Flipkart,QA_Engineer
+5.51,EEE,16.97,2023,Infosys,DevOps
+8.35,EEE,34.78,2023,Adobe,UI/UX
+5.57,ME,8.25,2024,Microsoft,UI/UX
+8.51,EEE,36.95,2024,Google,SDE
+5.71,BT,5.77,2023,IBM,Data Science
+7.77,CSE,27.59,2024,TCS,QA_Engineer
+9.5,EEE,32.45,2024,Amazon,Business_Analyst
+6.81,ECE,5.81,2023,Paytm,Business_Analyst
+6.94,CSE,13.94,2024,IBM,UI/UX
+5.9,CSE,34.96,2023,Amazon,Data Science
+7.42,CE,14.8,2023,Adobe,Data Science
+5.85,CE,29.69,2024,TCS,UI/UX
+7.08,EEE,26.23,2024,Flipkart,Data Science
+5.22,BT,35.03,2024,Google,QA_Engineer
+8.85,BT,36.54,2023,Flipkart,Data Science
+8.76,CSE,29.91,2024,Adobe,QA_Engineer
+5.39,EEE,24.83,2023,Adobe,UI/UX
+6.83,CSE,29.82,2024,Wipro,Product Manager
+9.57,BT,23.31,2023,TCS,UI/UX
+7.36,CSE,16.45,2023,Google,QA_Engineer
+6.2,ME,23.07,2024,Wipro,Business_Analyst
+5.0,IT,30.51,2024,Adobe,UI/UX
+5.49,EEE,11.5,2024,TCS,Business_Analyst
+6.12,CE,23.01,2023,Wipro,QA_Engineer
+9.25,IT,15.41,2024,Paytm,DevOps
+7.84,EEE,20.35,2024,Google,DevOps
+5.82,ME,35.11,2023,Paytm,SDE
+8.14,CE,10.17,2023,Flipkart,QA_Engineer
+9.78,IT,39.36,2024,Wipro,UI/UX
+9.19,ECE,38.43,2023,Wipro,SDE
+5.38,CE,3.43,2024,TCS,Product Manager
+8.08,ME,15.68,2023,TCS,Data Science
+8.84,IT,27.87,2024,TCS,DevOps
+9.62,ECE,27.94,2023,Flipkart,DevOps
+5.52,CSE,4.18,2024,Wipro,SDE
+6.37,ECE,36.33,2024,Paytm,Data Science
+5.56,EEE,14.51,2024,Adobe,QA_Engineer
+6.12,CE,7.31,2024,Infosys,Data Science
+6.45,BT,15.26,2024,Infosys,Product Manager
+7.12,IT,33.71,2023,Wipro,Data Science
+5.58,BT,22.84,2024,IBM,Business_Analyst
+7.68,BT,10.26,2023,Amazon,UI/UX
+5.47,CE,13.44,2023,Infosys,QA_Engineer
+8.04,IT,24.68,2024,Adobe,SDE
+9.28,CE,6.17,2023,Flipkart,Product Manager
+6.66,CSE,29.8,2024,Google,Business_Analyst
+5.8,CE,31.25,2023,Infosys,Product Manager
+6.92,EEE,22.95,2023,Flipkart,Data Science
+7.32,ECE,27.37,2024,Adobe,Product Manager
+9.65,IT,29.31,2024,Microsoft,SDE
+8.72,CSE,7.74,2024,Microsoft,Product Manager
+6.42,ME,22.87,2023,TCS,QA_Engineer
+8.73,IT,6.16,2023,Adobe,DevOps
+5.8,CSE,37.15,2023,Wipro,Business_Analyst
+9.59,ME,15.26,2024,TCS,Data Science
+6.22,EEE,26.86,2023,IBM,QA_Engineer
+5.11,CE,24.24,2023,Google,Data Science
+8.2,CSE,21.21,2023,IBM,Data Science
+8.12,ME,15.12,2023,Flipkart,QA_Engineer
+8.93,ME,5.52,2024,Google,DevOps
+5.84,ECE,25.47,2024,TCS,DevOps
+9.61,IT,13.48,2023,Adobe,Product Manager
+7.11,BT,7.82,2023,Amazon,DevOps
+5.35,EEE,12.41,2023,Microsoft,QA_Engineer
+9.62,IT,27.23,2024,Microsoft,SDE
+5.22,CE,30.79,2023,Paytm,QA_Engineer
+7.29,CSE,11.45,2024,Wipro,SDE
+6.69,ECE,38.79,2023,Flipkart,DevOps
+9.26,EEE,28.63,2024,IBM,SDE
+7.1,CE,4.09,2024,TCS,DevOps
+6.65,CE,9.66,2024,TCS,Business_Analyst
+9.8,CSE,28.46,2024,Google,DevOps
+9.46,CE,20.4,2023,Adobe,Data Science
+8.04,ECE,38.46,2024,Wipro,UI/UX
+8.39,IT,34.12,2024,Flipkart,UI/UX
+6.26,CSE,34.5,2024,IBM,Product Manager
+6.45,ME,7.28,2023,Adobe,DevOps
+9.11,IT,35.46,2023,Adobe,Business_Analyst
+7.26,ECE,32.68,2024,Paytm,Business_Analyst
+8.61,BT,17.47,2024,Adobe,DevOps
+5.3,EEE,38.98,2024,Wipro,Business_Analyst
+8.82,CE,27.41,2024,TCS,DevOps
+7.75,IT,11.53,2023,IBM,Data Science
+5.41,ECE,21.25,2024,Microsoft,Data Science
+6.08,CE,10.55,2024,Paytm,Data Science
+9.26,BT,9.97,2023,Wipro,Data Science
+8.61,ME,25.27,2023,IBM,Product Manager
+6.51,BT,21.73,2024,Infosys,QA_Engineer
+6.69,EEE,4.5,2023,Amazon,UI/UX
+6.77,ME,17.28,2023,Google,Data Science
+7.27,ECE,10.43,2024,Paytm,QA_Engineer
+6.01,ECE,36.18,2023,TCS,SDE
+5.51,CE,36.32,2023,Infosys,Business_Analyst
+6.9,ECE,6.41,2023,Flipkart,SDE
+7.26,ECE,36.01,2024,Infosys,UI/UX
+7.8,EEE,14.99,2024,TCS,UI/UX
+7.39,CSE,16.88,2024,Flipkart,Data Science
+9.74,CSE,34.57,2024,Google,QA_Engineer
+5.47,EEE,37.49,2023,TCS,QA_Engineer
+6.78,IT,37.56,2023,Amazon,DevOps
+9.46,ECE,17.59,2023,Adobe,DevOps
+6.53,CE,8.48,2024,Google,Product Manager
+5.33,CE,14.37,2024,Infosys,DevOps
+5.86,EEE,24.27,2023,Amazon,Data Science
+9.11,BT,35.9,2023,Infosys,QA_Engineer
+6.48,CE,36.55,2023,Amazon,QA_Engineer
+6.98,CSE,35.76,2024,IBM,QA_Engineer
+5.72,CSE,16.14,2024,Google,Product Manager
+9.63,ME,30.3,2024,Adobe,QA_Engineer
+5.12,ECE,24.67,2024,Google,SDE
+8.75,ME,39.81,2024,Amazon,UI/UX
+6.59,ECE,28.35,2023,Wipro,UI/UX
+7.8,ME,19.0,2024,Paytm,SDE
+9.71,CSE,39.53,2023,IBM,Data Science
+6.44,CSE,30.57,2023,Adobe,UI/UX
+7.51,EEE,24.25,2024,Infosys,QA_Engineer
+9.38,EEE,22.82,2023,Amazon,Business_Analyst
+8.65,EEE,6.22,2024,Amazon,Product Manager
+7.06,EEE,16.19,2023,Microsoft,DevOps
+9.97,ECE,16.01,2024,Paytm,Business_Analyst
+8.69,BT,29.09,2024,Flipkart,DevOps
+6.29,ME,37.15,2024,Paytm,Data Science
+7.45,BT,32.21,2024,TCS,DevOps
+7.1,BT,38.17,2023,TCS,UI/UX
+8.47,CE,26.39,2024,Microsoft,QA_Engineer
+5.06,ECE,6.82,2023,IBM,Data Science
+5.28,IT,17.62,2023,Wipro,UI/UX
+6.62,ME,6.53,2023,Infosys,DevOps
+5.27,BT,17.11,2024,Flipkart,Product Manager
+5.67,CE,4.29,2024,Flipkart,UI/UX
+6.13,CSE,4.22,2023,Flipkart,Business_Analyst
+7.88,ECE,25.4,2024,IBM,SDE
+9.31,EEE,30.69,2024,TCS,Business_Analyst
+7.51,ECE,22.58,2023,Paytm,QA_Engineer
+5.43,ME,17.21,2024,Infosys,SDE
+9.23,IT,35.99,2024,Adobe,QA_Engineer
+9.37,IT,26.58,2024,Microsoft,Product Manager
+5.58,BT,27.71,2023,Microsoft,UI/UX
+6.56,IT,37.73,2023,TCS,QA_Engineer
+7.78,ECE,37.18,2023,Wipro,Business_Analyst
+5.39,IT,18.95,2024,IBM,SDE
+6.56,EEE,38.64,2023,Flipkart,Business_Analyst
+6.74,EEE,33.2,2024,TCS,SDE
+7.56,CE,25.88,2023,Adobe,Business_Analyst
+8.25,BT,24.86,2024,Flipkart,Data Science
+7.94,CSE,8.32,2024,IBM,UI/UX
+8.52,CSE,27.92,2023,Adobe,UI/UX
+8.63,IT,6.04,2024,IBM,QA_Engineer
+6.64,ME,32.78,2024,Microsoft,QA_Engineer
+8.41,EEE,17.56,2023,Wipro,Data Science
+7.08,ECE,21.76,2024,IBM,Data Science
+9.08,ME,20.0,2024,Amazon,UI/UX
+6.8,ECE,37.85,2024,Microsoft,Business_Analyst
+7.46,CSE,3.61,2024,Paytm,Product Manager
+7.48,IT,31.2,2023,Flipkart,SDE
+6.68,IT,10.87,2024,Wipro,QA_Engineer
+5.46,CE,36.75,2024,Infosys,Data Science
+9.84,EEE,24.4,2024,Google,Business_Analyst
+8.48,ME,24.66,2023,TCS,DevOps
+8.28,IT,34.62,2023,Wipro,UI/UX
+7.21,BT,27.15,2024,Adobe,Data Science
+9.65,CE,32.71,2024,Google,UI/UX
+7.36,IT,24.22,2024,Microsoft,Product Manager
+7.08,ME,10.99,2023,Infosys,DevOps
+6.57,IT,10.81,2024,Paytm,Business_Analyst
+6.37,CSE,13.15,2023,Infosys,UI/UX
+5.91,EEE,16.39,2024,TCS,Data Science
+6.45,BT,22.34,2024,Flipkart,Business_Analyst
+7.67,EEE,17.12,2023,Wipro,SDE
+6.55,ECE,13.98,2024,Adobe,SDE
+7.39,IT,21.0,2023,Infosys,QA_Engineer
+9.07,EEE,31.09,2024,Amazon,UI/UX
+8.73,BT,26.53,2024,Paytm,DevOps
+8.45,CSE,36.69,2023,Amazon,Product Manager
+8.68,CE,24.69,2023,Adobe,QA_Engineer
+8.98,ME,23.51,2024,TCS,UI/UX
+8.47,ME,12.08,2023,Amazon,Business_Analyst
+8.11,CE,31.03,2023,IBM,QA_Engineer
+6.07,EEE,11.09,2024,Infosys,UI/UX
+7.26,EEE,5.45,2024,IBM,SDE
+6.96,ECE,22.65,2023,Adobe,SDE
+7.52,CSE,5.21,2024,Google,Business_Analyst
+9.91,BT,27.73,2023,Adobe,SDE
+7.25,ME,30.99,2024,TCS,DevOps
+7.38,CSE,18.49,2023,Flipkart,Data Science
+8.73,BT,32.95,2024,IBM,DevOps
+9.32,CE,16.59,2024,Infosys,QA_Engineer
+5.83,ME,12.05,2024,TCS,DevOps
+5.8,IT,3.8,2024,Wipro,UI/UX
+5.26,CE,21.03,2023,Infosys,Data Science
+9.81,ME,20.05,2024,Google,UI/UX
+9.68,IT,18.79,2023,Google,Data Science
+8.68,ME,15.87,2024,Adobe,SDE
+7.01,BT,24.01,2024,Wipro,Product Manager
+8.16,CE,39.77,2024,Adobe,DevOps
+6.85,CSE,3.11,2024,Infosys,DevOps
+5.45,IT,17.01,2024,TCS,Product Manager
+6.01,EEE,35.35,2023,Flipkart,QA_Engineer
+5.85,CSE,39.68,2024,Microsoft,DevOps
+8.06,CSE,39.12,2024,Microsoft,Product Manager
+7.65,CE,38.21,2024,Infosys,Product Manager
+6.94,CSE,32.01,2024,Wipro,QA_Engineer
+6.25,ME,33.53,2023,TCS,SDE
+8.08,CE,28.47,2024,Amazon,UI/UX
+7.45,CSE,38.39,2024,Microsoft,DevOps
+9.07,EEE,7.36,2023,Flipkart,QA_Engineer
+5.72,EEE,22.93,2024,Paytm,Data Science
+9.38,EEE,36.88,2024,TCS,Business_Analyst
+6.57,ME,38.62,2023,TCS,Data Science
+7.98,CSE,39.5,2023,Google,QA_Engineer
+6.79,IT,19.49,2023,Google,DevOps
+7.12,CE,31.16,2024,IBM,Business_Analyst
+7.51,IT,7.71,2024,Wipro,Data Science
+9.05,CSE,4.77,2024,IBM,UI/UX
+7.19,ME,21.42,2024,IBM,Business_Analyst
+8.24,EEE,37.44,2024,Wipro,Business_Analyst
+9.81,EEE,7.75,2024,Adobe,Data Science
+6.02,IT,13.78,2024,Paytm,DevOps
+6.13,CE,10.98,2023,Paytm,QA_Engineer
+5.41,CE,10.63,2023,Flipkart,DevOps
+5.67,ECE,19.76,2023,Infosys,DevOps
+6.24,ECE,29.56,2023,Amazon,DevOps
+8.35,EEE,17.61,2023,Flipkart,Business_Analyst
+5.08,CE,22.06,2024,Wipro,Data Science
+9.14,ECE,3.05,2023,Flipkart,Product Manager
+8.36,BT,23.91,2024,Adobe,QA_Engineer
+6.83,ECE,5.65,2024,TCS,SDE
+5.64,BT,32.92,2023,Adobe,Data Science
+7.68,BT,9.33,2024,Google,Data Science
+6.25,ME,9.9,2023,Microsoft,Product Manager
+6.22,ME,6.57,2024,Infosys,Business_Analyst
+9.25,EEE,9.69,2024,Amazon,Business_Analyst
+8.8,BT,13.63,2024,Paytm,UI/UX
+8.59,CSE,39.63,2024,Adobe,SDE
+5.37,ME,39.37,2024,TCS,Business_Analyst
+5.62,BT,21.98,2024,Amazon,DevOps
+8.21,BT,9.98,2024,Adobe,UI/UX
+6.19,BT,29.69,2024,Microsoft,SDE
+9.41,CSE,20.74,2024,Flipkart,Business_Analyst
+5.96,EEE,39.88,2023,Wipro,Business_Analyst
+9.96,CSE,16.2,2024,Google,Product Manager
+9.61,EEE,19.43,2023,Microsoft,Data Science
+9.18,CE,5.85,2024,Paytm,DevOps
+9.56,CE,18.84,2024,TCS,SDE
+5.68,ME,24.98,2024,Adobe,UI/UX
+9.77,CE,13.39,2023,Flipkart,Business_Analyst
+8.14,EEE,22.93,2023,Microsoft,SDE
+9.04,ME,10.47,2023,Adobe,QA_Engineer
+9.57,ECE,27.23,2023,Wipro,DevOps
+8.38,ME,5.71,2024,Flipkart,Product Manager
+9.0,CE,21.35,2024,Adobe,SDE
+7.31,ME,6.64,2024,Adobe,Data Science
+9.58,EEE,22.21,2023,IBM,UI/UX
+7.7,CSE,38.75,2024,Flipkart,SDE
+6.32,ME,27.26,2023,Infosys,Business_Analyst
+9.31,CE,38.21,2023,IBM,Data Science
+9.63,CSE,17.55,2023,Adobe,Data Science
+8.59,IT,8.05,2024,Google,Business_Analyst
+8.1,IT,34.32,2024,Microsoft,DevOps
+8.98,IT,17.21,2023,Infosys,UI/UX
+5.77,CSE,28.77,2024,Wipro,UI/UX
+5.26,CSE,31.4,2024,Flipkart,Data Science
+5.51,BT,13.8,2024,Microsoft,Data Science
+7.07,ME,23.64,2024,Microsoft,SDE
+6.23,IT,16.85,2023,Microsoft,UI/UX
+8.41,IT,14.57,2023,Wipro,Business_Analyst
+9.79,ECE,14.3,2024,Amazon,DevOps
+6.47,IT,22.77,2023,TCS,DevOps
+6.59,ECE,15.79,2024,Paytm,Product Manager
+7.01,IT,22.31,2024,Adobe,QA_Engineer
+6.6,ME,24.42,2023,Amazon,Product Manager
+9.61,CE,20.55,2024,Flipkart,Data Science
+6.96,ME,19.11,2023,Adobe,Business_Analyst
+8.96,ME,8.95,2023,Adobe,Business_Analyst
+5.12,ME,8.83,2024,Google,SDE
+5.29,EEE,7.94,2023,Adobe,Product Manager
+7.45,CSE,12.87,2024,TCS,Business_Analyst
+6.29,ECE,12.61,2024,TCS,Product Manager
+5.3,ME,6.88,2023,Paytm,Business_Analyst
+6.73,ME,18.74,2024,Flipkart,Data Science
+7.02,CSE,11.92,2024,TCS,SDE
+7.9,EEE,10.27,2024,Paytm,Product Manager
+7.1,CE,20.25,2023,Amazon,UI/UX
+6.22,CE,6.5,2023,Adobe,DevOps
+5.82,ECE,11.14,2024,Wipro,Business_Analyst
+6.23,CE,30.67,2024,Infosys,Product Manager
+7.3,CSE,39.15,2023,Infosys,Product Manager
+8.04,BT,6.22,2023,Google,QA_Engineer
+6.57,CSE,21.09,2023,Google,Product Manager
+8.53,ME,25.66,2024,Flipkart,UI/UX
+6.89,EEE,31.87,2024,Adobe,Business_Analyst
+8.41,ECE,30.94,2023,Infosys,Data Science
+9.47,BT,27.06,2024,Amazon,Business_Analyst
+9.23,ME,21.09,2024,Amazon,Product Manager
+7.45,CSE,32.86,2023,Google,Product Manager
+9.89,ECE,10.13,2023,Google,SDE
+8.93,BT,21.34,2023,Paytm,UI/UX
+9.19,IT,39.52,2023,IBM,UI/UX
+9.34,ECE,6.26,2023,Infosys,QA_Engineer
+8.15,IT,30.44,2024,Wipro,Business_Analyst
+6.02,CSE,13.36,2024,TCS,DevOps
+8.44,EEE,38.45,2023,Amazon,UI/UX
+6.62,EEE,32.14,2023,Adobe,UI/UX
+8.72,IT,21.69,2023,Adobe,QA_Engineer
+7.19,IT,21.61,2024,Flipkart,Product Manager
+6.6,ME,31.29,2023,Google,Product Manager
+7.63,CE,3.94,2024,TCS,DevOps
+6.33,ECE,12.42,2023,Amazon,DevOps
+7.22,EEE,29.23,2024,Amazon,Product Manager
+6.15,BT,22.13,2024,Amazon,UI/UX
+7.2,ME,20.4,2023,Microsoft,QA_Engineer
+7.54,CSE,20.91,2023,IBM,Data Science
+9.48,CE,15.4,2023,Adobe,SDE
+6.35,CE,32.37,2023,Wipro,Data Science
+7.66,BT,27.11,2023,Wipro,Data Science
+9.76,ME,10.15,2023,Amazon,DevOps
+6.74,ME,27.21,2023,TCS,Product Manager
+9.56,CE,33.01,2024,Wipro,Data Science
+9.58,ME,11.11,2024,Adobe,Data Science
+5.65,CE,14.24,2023,Amazon,QA_Engineer
+6.81,IT,24.87,2024,Adobe,Data Science
+8.34,IT,21.43,2024,Infosys,QA_Engineer
+7.54,ECE,13.83,2024,Amazon,DevOps
+8.36,CE,18.36,2023,Amazon,Data Science
+5.71,EEE,19.6,2023,Adobe,Data Science
+9.15,IT,3.07,2023,Amazon,Business_Analyst
+7.6,ME,11.21,2024,Flipkart,DevOps
+6.12,ME,7.34,2024,IBM,UI/UX
+9.65,IT,32.44,2023,Infosys,UI/UX
+9.02,CE,26.23,2024,Flipkart,Product Manager
+7.31,BT,24.52,2023,IBM,UI/UX
+9.86,IT,4.78,2024,Flipkart,Product Manager
+8.14,IT,31.73,2024,Amazon,SDE
+5.16,ME,13.12,2023,TCS,DevOps
+8.28,EEE,35.2,2023,Google,Product Manager
+9.76,CSE,18.86,2023,TCS,Business_Analyst
+6.8,BT,9.14,2024,Wipro,Product Manager
+9.04,IT,3.14,2024,IBM,Business_Analyst
+9.4,ECE,9.52,2023,TCS,UI/UX
+9.17,IT,29.98,2024,Infosys,DevOps
+7.9,CE,19.45,2023,Microsoft,UI/UX
+8.97,IT,21.16,2024,TCS,Data Science
+6.91,ECE,5.4,2024,Paytm,DevOps
+9.53,CE,18.02,2023,Infosys,QA_Engineer
+6.76,IT,32.98,2024,IBM,SDE
+6.64,IT,27.73,2023,TCS,DevOps
+5.36,ME,11.2,2023,Flipkart,Business_Analyst
+5.68,EEE,4.11,2024,Google,DevOps
+5.68,ECE,34.51,2024,Adobe,Data Science
+8.91,CSE,9.79,2023,Google,Data Science
+6.55,ECE,3.51,2023,Paytm,Product Manager
+7.95,IT,10.42,2023,Amazon,UI/UX
+8.32,BT,38.07,2023,Paytm,QA_Engineer
+8.77,ECE,7.15,2023,Microsoft,QA_Engineer
+6.57,EEE,9.93,2023,Paytm,UI/UX
+6.73,BT,5.78,2023,Google,Product Manager
+5.63,IT,24.94,2023,Flipkart,Business_Analyst
+9.85,IT,6.64,2023,Paytm,SDE
+9.36,EEE,32.76,2024,Adobe,DevOps
+9.89,ME,15.09,2023,Flipkart,Data Science
+8.07,ME,33.45,2024,Google,SDE
+8.72,BT,10.79,2024,Infosys,SDE
+9.12,ME,11.48,2023,Paytm,Data Science
+6.52,EEE,38.94,2024,Wipro,Business_Analyst
+6.96,IT,29.06,2024,Google,Business_Analyst
+9.91,ME,24.46,2024,Amazon,QA_Engineer
+6.32,CE,21.73,2023,Microsoft,QA_Engineer
+7.31,ME,34.33,2024,Infosys,QA_Engineer
+8.82,CSE,27.06,2024,Adobe,SDE
+6.21,CE,13.02,2023,Adobe,Data Science
+7.13,ECE,38.13,2023,Amazon,UI/UX
+6.88,EEE,28.0,2024,Microsoft,DevOps
+9.92,ECE,36.76,2024,Flipkart,DevOps
+7.17,CSE,17.76,2023,Wipro,DevOps
+5.07,CSE,16.91,2023,Google,Product Manager
+8.83,ME,16.57,2023,IBM,UI/UX
+7.06,BT,17.29,2024,Wipro,Product Manager
+8.69,CSE,8.75,2023,Microsoft,SDE
+8.2,CE,3.24,2024,Flipkart,Business_Analyst
+8.46,CE,6.5,2024,Wipro,Business_Analyst
+5.97,ME,11.94,2024,Flipkart,Data Science
+8.57,ECE,17.29,2023,Google,Product Manager
+5.04,IT,15.85,2024,Adobe,Data Science
+7.19,ME,21.16,2024,Microsoft,SDE
+8.66,EEE,25.58,2023,Adobe,DevOps
+8.87,IT,22.3,2024,Adobe,Product Manager
+6.07,CSE,10.49,2023,Google,UI/UX
+10.0,CE,34.83,2023,Adobe,Product Manager
+7.98,ECE,27.01,2024,Google,DevOps
+8.04,ECE,23.77,2023,Microsoft,Data Science
+5.11,BT,11.97,2024,Wipro,QA_Engineer
+8.91,IT,33.91,2023,IBM,SDE
+9.08,IT,28.48,2024,Google,DevOps
+5.41,IT,39.0,2024,TCS,DevOps
+5.47,BT,28.04,2023,Adobe,Business_Analyst
+5.9,CE,19.09,2023,Paytm,UI/UX
+9.79,EEE,11.45,2023,TCS,QA_Engineer
+5.26,CE,5.44,2023,Microsoft,DevOps
+7.8,EEE,10.97,2024,TCS,SDE
+8.39,CSE,36.87,2024,TCS,DevOps
+6.53,BT,15.89,2024,Flipkart,Product Manager
+9.91,BT,39.41,2024,Adobe,SDE
+7.16,ME,30.47,2023,TCS,Data Science
+8.77,EEE,32.65,2023,Infosys,Business_Analyst
+6.27,CE,19.64,2023,Google,UI/UX
+7.72,EEE,24.39,2023,Adobe,Data Science
+5.66,ECE,27.85,2024,Amazon,DevOps
+7.54,EEE,34.66,2023,Adobe,DevOps
+7.13,CE,28.04,2024,Microsoft,DevOps
+8.42,IT,16.74,2024,IBM,UI/UX
+5.49,ECE,22.84,2023,Paytm,DevOps
+9.62,ME,6.36,2023,Wipro,Data Science
+9.12,EEE,34.5,2023,Flipkart,UI/UX
+6.57,IT,31.96,2024,Wipro,QA_Engineer
+5.2,CE,29.39,2024,Amazon,UI/UX
+8.33,IT,38.85,2023,Paytm,QA_Engineer
+9.42,IT,30.72,2024,Amazon,Business_Analyst
+9.04,ECE,28.04,2023,TCS,SDE
+5.9,BT,18.43,2023,Microsoft,SDE
+8.06,IT,8.56,2024,Flipkart,UI/UX
+5.02,CE,33.15,2024,Adobe,QA_Engineer
+6.38,BT,17.27,2023,Paytm,Product Manager
+9.78,BT,38.9,2023,Infosys,Data Science
+9.34,BT,20.12,2023,Adobe,Product Manager
+5.26,CSE,14.09,2023,Microsoft,DevOps
+5.28,IT,9.95,2024,Wipro,SDE
+8.66,IT,24.27,2023,Infosys,Data Science
+7.88,ME,33.22,2024,Wipro,DevOps
+8.63,CE,22.89,2023,TCS,DevOps
+5.54,CE,36.38,2024,Wipro,Business_Analyst
+5.41,ME,8.33,2023,IBM,Data Science
+7.9,ME,9.48,2023,Google,Business_Analyst
+8.17,BT,9.94,2023,IBM,Product Manager
+7.76,ME,25.57,2023,Google,DevOps
+8.99,EEE,23.05,2023,Amazon,Business_Analyst
+5.36,CE,31.21,2023,Adobe,DevOps
+6.1,ME,35.16,2023,Amazon,Product Manager
+9.74,BT,3.41,2024,TCS,DevOps
+6.2,ECE,28.08,2023,TCS,UI/UX
+6.94,BT,12.27,2023,Flipkart,SDE
+8.56,ME,22.95,2024,Flipkart,Data Science
+8.48,CSE,11.43,2024,TCS,Data Science
+6.75,CE,37.55,2024,Microsoft,Product Manager
+5.72,BT,31.73,2023,TCS,SDE
+6.91,ME,35.66,2024,Infosys,Business_Analyst
+6.19,ME,26.54,2023,Adobe,QA_Engineer
+9.24,BT,18.63,2023,Flipkart,QA_Engineer
+8.01,CE,4.3,2024,Infosys,QA_Engineer
+5.88,ECE,16.91,2024,TCS,DevOps
+7.44,CE,12.63,2024,TCS,Data Science
+8.92,CE,39.44,2024,Google,SDE
+6.77,BT,32.8,2024,Wipro,Business_Analyst
+8.16,EEE,6.94,2024,Flipkart,UI/UX
+7.56,IT,38.01,2024,Amazon,SDE
+8.52,ME,20.62,2024,Adobe,DevOps
+6.38,ECE,3.38,2024,Google,DevOps
+6.67,IT,9.12,2023,Google,Product Manager
+8.16,ECE,24.9,2024,Paytm,Data Science
+5.22,IT,7.51,2023,Flipkart,Data Science
+8.59,EEE,18.84,2024,Microsoft,DevOps
+5.57,CE,35.74,2024,Adobe,Business_Analyst
+8.39,EEE,11.9,2023,Amazon,SDE
+5.24,BT,35.5,2023,Microsoft,QA_Engineer
+6.77,CE,6.75,2023,Infosys,Product Manager
+6.43,BT,34.1,2023,IBM,Business_Analyst
+7.49,BT,39.65,2024,Adobe,QA_Engineer
+6.53,CE,9.99,2024,Paytm,UI/UX
+5.05,BT,18.37,2024,Flipkart,Product Manager
+6.43,BT,21.29,2023,Flipkart,Data Science
+9.77,CSE,25.57,2023,IBM,Business_Analyst
+5.84,ECE,23.09,2023,Paytm,Data Science
+9.04,CSE,24.31,2024,Paytm,UI/UX
+8.08,ECE,37.67,2023,Infosys,QA_Engineer
+5.87,ECE,37.29,2023,Wipro,QA_Engineer
+8.35,BT,5.48,2024,Google,Business_Analyst
+6.29,CE,36.76,2023,Paytm,UI/UX
+9.18,EEE,26.56,2023,Paytm,Business_Analyst
+5.44,ME,31.28,2023,Microsoft,Data Science
+6.14,ECE,22.37,2024,Microsoft,Business_Analyst
+8.39,IT,36.61,2024,Google,UI/UX
+9.49,CE,3.96,2024,TCS,Product Manager
+5.63,CSE,13.65,2023,IBM,QA_Engineer
+7.88,CSE,36.52,2024,Wipro,Data Science
+6.21,IT,36.03,2024,Adobe,DevOps
+7.98,BT,30.48,2023,IBM,SDE
+9.87,EEE,21.79,2024,Microsoft,Business_Analyst
+5.12,CE,29.65,2023,Wipro,Business_Analyst
+7.32,IT,34.97,2023,Google,UI/UX
+6.37,EEE,28.55,2023,Paytm,Data Science
+7.72,IT,4.04,2023,Google,DevOps
+8.49,IT,28.77,2023,IBM,DevOps
+5.1,ECE,24.1,2023,IBM,SDE
+5.23,CSE,12.7,2024,Flipkart,SDE
+9.62,ECE,30.66,2024,TCS,SDE
+8.81,CSE,36.87,2023,Infosys,Product Manager
+9.25,ECE,26.34,2024,Flipkart,Product Manager
+8.68,ME,5.12,2023,Adobe,UI/UX
+8.11,BT,9.51,2024,IBM,QA_Engineer
+7.14,IT,34.27,2023,Flipkart,UI/UX
+8.55,ME,3.57,2023,IBM,Business_Analyst
+8.92,IT,10.71,2023,IBM,DevOps
+7.21,ME,31.79,2024,Amazon,Business_Analyst
+6.92,BT,6.8,2024,Infosys,SDE
+5.56,EEE,27.46,2024,Flipkart,UI/UX
+6.03,ECE,6.43,2023,TCS,Product Manager
+7.29,ECE,14.69,2023,Amazon,QA_Engineer
+5.62,CE,15.54,2024,IBM,UI/UX
+6.97,ME,19.77,2024,Google,UI/UX
+9.76,CE,9.1,2024,Infosys,DevOps
+7.47,CSE,13.15,2023,Infosys,QA_Engineer
+8.55,ME,14.05,2024,Flipkart,QA_Engineer
+8.57,CSE,15.75,2023,Flipkart,DevOps
+6.94,ECE,15.32,2024,Adobe,Product Manager
+9.24,ECE,4.98,2023,Paytm,SDE
+8.63,ECE,5.03,2024,Microsoft,Product Manager
+6.01,CSE,14.58,2023,IBM,Product Manager
+6.62,ECE,23.61,2024,Infosys,UI/UX
+6.43,CSE,13.3,2024,Wipro,DevOps
+9.53,ME,28.44,2023,Amazon,Business_Analyst
+7.64,EEE,27.87,2023,Amazon,Data Science
+9.0,ME,3.98,2023,Paytm,Product Manager
+7.04,CE,4.7,2023,Paytm,DevOps
+7.74,CE,39.34,2024,Infosys,Product Manager
+8.04,CE,32.73,2023,Amazon,Data Science
+6.73,ME,20.21,2024,Infosys,UI/UX
+6.5,BT,8.68,2023,Google,Product Manager
+9.95,EEE,32.6,2023,Microsoft,SDE
+6.97,BT,34.17,2023,Microsoft,QA_Engineer
+6.56,BT,14.49,2024,Wipro,DevOps
+6.33,CSE,30.02,2024,TCS,DevOps
+9.19,CSE,25.69,2023,Amazon,DevOps
+6.35,ME,19.05,2023,Google,SDE
+7.56,EEE,29.33,2023,IBM,DevOps
+9.59,CE,36.48,2023,Flipkart,UI/UX
+7.4,ECE,30.07,2023,IBM,SDE
+7.63,ECE,6.56,2024,Flipkart,Business_Analyst
+5.87,CE,14.82,2024,Adobe,Business_Analyst
+9.09,CE,35.96,2023,Adobe,UI/UX
+6.75,CE,14.62,2024,Microsoft,UI/UX
+9.7,IT,20.69,2023,Infosys,Business_Analyst
+7.75,BT,23.75,2023,IBM,Data Science
+9.75,CE,9.06,2023,Adobe,Business_Analyst
+9.39,CE,39.58,2024,Adobe,Business_Analyst
+6.55,BT,21.3,2023,Wipro,Product Manager
+8.74,BT,26.66,2024,Flipkart,UI/UX
+8.99,CSE,27.59,2024,Infosys,UI/UX
+8.48,IT,36.23,2024,Adobe,QA_Engineer
+8.0,BT,15.61,2024,Google,DevOps
+9.16,CE,8.5,2024,Infosys,UI/UX
+7.95,EEE,31.36,2023,Adobe,UI/UX
+9.18,CE,14.02,2024,Infosys,QA_Engineer
+8.47,CE,20.67,2023,Google,Data Science
+8.61,EEE,18.11,2024,Amazon,QA_Engineer
+5.68,CE,6.18,2024,Microsoft,Data Science
+6.1,CE,17.62,2024,Flipkart,DevOps
+9.1,CSE,17.55,2024,Paytm,Data Science
+7.11,BT,34.61,2024,Microsoft,Business_Analyst
+8.86,CE,36.99,2024,IBM,UI/UX
+8.23,ECE,8.15,2023,Flipkart,SDE
+8.58,IT,22.44,2024,IBM,Product Manager
+5.92,ECE,18.88,2023,Flipkart,SDE
+6.66,IT,4.83,2023,Wipro,Business_Analyst
+9.65,BT,22.22,2023,Flipkart,UI/UX
+8.98,IT,8.51,2023,Amazon,Business_Analyst
+9.68,CSE,12.79,2023,Amazon,SDE
+8.88,EEE,25.09,2024,Wipro,SDE
+5.64,BT,9.84,2023,Infosys,SDE
+7.2,ME,24.26,2023,Microsoft,Product Manager
+7.27,CE,35.19,2023,IBM,Data Science
+6.49,ME,11.07,2024,Google,Business_Analyst
+9.81,BT,5.6,2023,Infosys,DevOps
+7.81,CSE,37.16,2024,Paytm,Product Manager
+9.64,IT,39.27,2024,Flipkart,Product Manager
+6.38,BT,35.0,2024,Flipkart,Business_Analyst
+7.18,ME,10.06,2023,IBM,SDE
+6.01,ME,14.06,2024,Flipkart,DevOps
+5.95,CSE,9.98,2023,Paytm,DevOps
+5.91,EEE,37.78,2024,Paytm,Data Science
+7.12,EEE,20.12,2024,Infosys,DevOps
+7.92,ECE,8.21,2023,Infosys,Data Science
+6.03,IT,37.05,2024,IBM,Data Science
+5.06,BT,7.94,2024,Paytm,UI/UX
+6.54,BT,25.53,2023,Adobe,DevOps
+5.0,CSE,19.67,2024,Infosys,QA_Engineer
+9.98,CSE,24.12,2024,Infosys,QA_Engineer
+7.15,BT,8.5,2023,Infosys,Product Manager
+6.57,CSE,16.02,2023,Wipro,DevOps
+8.95,IT,33.2,2024,Adobe,DevOps
+9.68,IT,20.09,2024,Google,Business_Analyst
+5.1,IT,6.31,2023,TCS,Business_Analyst
+9.15,BT,31.89,2024,Paytm,DevOps
+8.53,CSE,18.99,2023,Microsoft,SDE
+9.71,CE,16.76,2024,Amazon,DevOps
+7.92,ME,17.51,2024,Paytm,QA_Engineer
+7.16,BT,21.05,2024,Microsoft,Business_Analyst
+5.87,ME,18.92,2024,Wipro,DevOps
+5.72,IT,9.09,2024,Adobe,UI/UX
+7.33,ECE,15.41,2023,Google,Product Manager
+8.77,ECE,26.95,2023,Paytm,Business_Analyst
+8.0,CSE,10.41,2023,Infosys,Data Science
+6.39,ECE,31.44,2024,TCS,Data Science
+8.11,BT,31.15,2023,Flipkart,SDE
+5.64,IT,24.36,2023,Adobe,DevOps
+5.97,ME,33.9,2024,Amazon,Data Science
+6.61,IT,4.33,2023,Flipkart,QA_Engineer
+6.79,CE,29.68,2024,Microsoft,Data Science
+8.08,IT,10.18,2024,Amazon,SDE
+9.17,ME,31.35,2024,Wipro,SDE
+7.73,CSE,37.08,2024,Infosys,SDE
+5.46,ME,14.17,2024,TCS,UI/UX
+8.88,IT,7.58,2024,Amazon,Data Science
+5.33,CSE,32.09,2023,Amazon,DevOps
+7.82,IT,23.96,2023,Microsoft,Data Science
+9.32,ECE,13.25,2023,IBM,QA_Engineer
+9.5,CE,15.52,2023,Infosys,Data Science
+8.32,ME,25.83,2024,TCS,Business_Analyst
+8.66,ECE,27.18,2023,Infosys,DevOps
+5.98,IT,25.45,2023,Adobe,SDE
+8.42,ECE,31.73,2023,IBM,Data Science
+9.96,ME,17.68,2023,Paytm,SDE
+6.44,IT,36.78,2024,IBM,Product Manager
+8.35,ECE,38.32,2023,TCS,Product Manager
+5.69,ME,17.89,2024,Amazon,Data Science
+5.58,EEE,12.17,2024,Infosys,UI/UX
+6.22,ME,32.94,2024,IBM,SDE
+5.15,EEE,38.25,2024,TCS,DevOps
+9.87,ME,18.63,2024,TCS,SDE
+5.5,BT,25.27,2024,Flipkart,DevOps
+6.35,CE,39.69,2024,Google,SDE
+6.75,ME,38.85,2024,Google,Business_Analyst
+5.32,EEE,30.68,2023,IBM,Business_Analyst
+5.11,CE,21.2,2024,Microsoft,Data Science
+7.72,BT,19.3,2024,Wipro,SDE
+8.57,ME,31.2,2024,Microsoft,SDE
+6.94,IT,28.63,2024,Paytm,UI/UX
+7.69,ECE,26.18,2023,IBM,DevOps
+9.8,CSE,29.77,2024,Wipro,QA_Engineer
+5.36,IT,35.07,2023,Wipro,Data Science
+6.53,CSE,21.27,2024,Adobe,UI/UX
+6.17,CSE,3.73,2023,Amazon,Product Manager
+6.13,BT,25.41,2023,TCS,DevOps
+8.77,BT,15.16,2024,Microsoft,Business_Analyst
+7.92,EEE,39.0,2024,TCS,SDE
+6.62,ME,14.83,2023,Amazon,QA_Engineer
+9.32,EEE,35.4,2023,Wipro,SDE
+7.06,ME,27.88,2023,Amazon,DevOps
+9.91,BT,8.56,2024,Adobe,UI/UX
+7.31,ME,12.62,2023,TCS,Product Manager
+7.99,ECE,38.06,2024,Microsoft,QA_Engineer
+5.3,CE,27.61,2024,Paytm,Data Science
+8.65,IT,28.39,2023,Infosys,Data Science
+7.28,EEE,11.89,2024,Infosys,Business_Analyst
+5.25,CE,28.13,2023,Flipkart,DevOps
+7.14,EEE,24.75,2024,IBM,UI/UX
+8.58,BT,14.6,2023,Amazon,DevOps
+9.45,CE,32.38,2024,Paytm,UI/UX
+9.52,CE,12.56,2023,Amazon,UI/UX
+7.05,EEE,6.37,2024,Microsoft,DevOps
+7.7,ME,28.3,2023,Amazon,Product Manager
+9.21,ME,12.61,2024,IBM,Business_Analyst
+7.51,CE,3.54,2024,IBM,Data Science
+8.63,ECE,9.9,2024,Adobe,QA_Engineer
+8.64,CSE,20.72,2024,Adobe,Business_Analyst
+7.56,IT,27.58,2023,Microsoft,DevOps
+5.73,IT,23.74,2024,Infosys,UI/UX
+7.36,CE,3.81,2024,Infosys,Business_Analyst
+6.37,CE,7.39,2023,Amazon,Data Science
+8.02,ME,9.72,2023,Infosys,Business_Analyst
+6.26,BT,12.25,2023,Wipro,Business_Analyst
+8.84,CSE,4.3,2024,Adobe,UI/UX
+5.4,CE,19.7,2024,Microsoft,Product Manager
+6.12,ECE,39.14,2024,IBM,DevOps
+6.86,IT,29.63,2024,Amazon,SDE
+8.52,IT,29.47,2024,TCS,DevOps
+9.79,BT,33.2,2024,Infosys,DevOps
+8.47,ECE,12.45,2023,TCS,DevOps
+6.89,IT,36.25,2023,TCS,Data Science
+9.5,CSE,33.67,2023,Paytm,DevOps
+5.84,IT,36.58,2023,Adobe,Product Manager
+9.99,IT,25.27,2024,TCS,Business_Analyst
+5.87,CSE,29.52,2023,Infosys,SDE
+6.22,CE,4.17,2024,Paytm,DevOps
+6.0,IT,38.24,2023,Infosys,Business_Analyst
+8.39,IT,36.2,2024,Amazon,UI/UX
+9.6,CE,34.87,2023,Amazon,UI/UX
+7.12,EEE,23.45,2023,Microsoft,SDE
+6.31,ECE,36.36,2023,Adobe,Business_Analyst
+5.97,CE,5.45,2023,Infosys,UI/UX
+6.26,ME,16.63,2023,Flipkart,UI/UX
+5.79,CSE,11.08,2024,Wipro,UI/UX
+7.3,EEE,21.77,2023,Paytm,SDE
+5.27,IT,22.11,2024,IBM,QA_Engineer
+8.5,ME,29.15,2023,Amazon,QA_Engineer
+7.47,BT,39.7,2023,IBM,Business_Analyst
+9.81,CE,20.09,2023,Infosys,Business_Analyst
+9.41,ECE,38.55,2024,Wipro,SDE
+6.83,EEE,18.04,2023,Google,UI/UX
+7.52,ECE,5.69,2024,TCS,DevOps
+7.01,BT,20.86,2023,Wipro,Business_Analyst
+6.13,CE,31.28,2023,Flipkart,Product Manager
+7.78,CE,17.2,2024,Flipkart,QA_Engineer
+8.72,IT,28.92,2023,Amazon,Business_Analyst
+6.86,ECE,25.32,2024,Infosys,SDE
+5.69,CSE,14.87,2023,Wipro,Product Manager
+6.39,ECE,37.39,2024,Infosys,DevOps
+5.4,IT,22.94,2023,Google,UI/UX
+5.93,EEE,4.27,2023,Google,DevOps
+7.3,CE,36.33,2023,Google,UI/UX
+5.84,CSE,13.51,2024,Paytm,QA_Engineer
+9.87,CSE,22.45,2023,Microsoft,Product Manager
+8.1,IT,34.81,2024,Flipkart,Business_Analyst
+8.69,ME,8.81,2023,Flipkart,Business_Analyst
+7.8,IT,10.26,2024,IBM,Product Manager
+7.22,CSE,5.27,2024,Infosys,Product Manager
+9.63,CE,36.47,2023,Paytm,Product Manager
+9.5,ME,4.04,2024,IBM,SDE
+8.92,CSE,39.24,2024,Paytm,Business_Analyst
+6.45,IT,37.45,2024,TCS,QA_Engineer
+5.5,ECE,20.46,2024,Paytm,UI/UX
+5.88,ECE,13.02,2024,TCS,DevOps
+5.19,ECE,19.67,2023,TCS,Data Science
+5.06,ME,10.92,2024,Microsoft,QA_Engineer
+6.4,IT,39.62,2023,Infosys,DevOps
+6.84,EEE,16.68,2023,Microsoft,Product Manager
+9.17,EEE,22.99,2024,IBM,Data Science
+9.4,CSE,27.71,2023,Google,Business_Analyst
+8.18,ECE,6.07,2023,Microsoft,SDE
+7.51,BT,8.0,2024,TCS,Product Manager
+9.92,IT,32.12,2024,Flipkart,SDE
+8.27,IT,16.01,2024,Paytm,UI/UX
+8.93,IT,33.1,2023,Flipkart,Data Science
+9.77,ME,19.28,2023,Flipkart,Data Science
+6.44,EEE,18.05,2023,Amazon,SDE
+8.54,EEE,11.39,2023,Paytm,SDE
+7.55,CSE,25.01,2024,Paytm,Product Manager
+5.01,CE,5.34,2024,Wipro,Product Manager
+5.34,CSE,8.82,2023,Amazon,Data Science
+9.08,BT,34.44,2023,TCS,Product Manager
+8.85,CE,34.3,2024,TCS,QA_Engineer
+5.15,IT,7.44,2024,Google,Data Science
+9.32,ECE,17.4,2023,Wipro,DevOps
+5.64,ECE,14.89,2023,Flipkart,Product Manager
+9.28,ME,22.09,2024,Wipro,QA_Engineer
+8.66,EEE,36.54,2023,Wipro,SDE
+6.02,BT,6.59,2023,Flipkart,DevOps
+5.05,IT,17.7,2023,Wipro,SDE
+7.65,EEE,29.04,2024,IBM,SDE
+7.12,IT,27.64,2023,Adobe,Product Manager
+5.98,CSE,35.23,2024,Wipro,Data Science
+5.05,CE,9.14,2023,Wipro,UI/UX
+7.27,CE,3.38,2023,Wipro,UI/UX
+5.62,EEE,28.76,2023,Wipro,DevOps
+6.93,CSE,4.09,2024,Wipro,Business_Analyst
+7.69,EEE,35.43,2023,Adobe,QA_Engineer
+9.26,CE,3.67,2023,TCS,SDE
+7.87,EEE,27.88,2024,Paytm,Business_Analyst
+9.45,ECE,14.44,2024,Adobe,QA_Engineer
+8.49,CE,7.16,2024,TCS,Product Manager
+9.42,CSE,38.41,2023,Flipkart,Product Manager
+9.76,CE,30.34,2024,Infosys,Data Science
+9.28,CSE,38.57,2024,Microsoft,Business_Analyst
+5.21,CE,28.81,2023,TCS,Product Manager
+5.26,BT,30.4,2024,Wipro,UI/UX
+8.01,EEE,19.79,2023,IBM,UI/UX
+7.96,CSE,18.23,2024,Amazon,Product Manager
+9.38,CE,16.31,2023,Paytm,UI/UX
+8.81,BT,16.0,2024,IBM,Business_Analyst
+8.25,CE,4.37,2023,Google,Data Science
+8.21,EEE,16.35,2023,Wipro,QA_Engineer
+6.4,BT,11.64,2023,Paytm,Data Science
+9.48,IT,20.29,2023,Adobe,Product Manager
+8.87,CSE,27.57,2024,Microsoft,SDE
+6.03,CE,37.85,2024,Microsoft,QA_Engineer
+9.43,ECE,3.65,2023,TCS,Product Manager
+8.42,ECE,13.15,2024,Amazon,Data Science
+6.03,EEE,32.58,2024,Amazon,DevOps
+6.54,ME,39.38,2023,Flipkart,Product Manager
+5.95,CE,4.42,2023,TCS,Data Science
+6.22,BT,21.53,2023,Amazon,Business_Analyst
+6.93,ECE,15.92,2023,Amazon,DevOps
+5.12,ME,23.64,2023,Google,DevOps
+9.2,IT,35.71,2024,Microsoft,UI/UX
+7.86,ME,11.11,2024,Flipkart,Business_Analyst
+6.82,EEE,31.76,2024,TCS,UI/UX
+5.43,ECE,38.62,2023,Google,Business_Analyst
+6.33,ME,17.17,2023,IBM,UI/UX
+6.51,IT,6.74,2024,Infosys,DevOps
+9.08,IT,21.11,2023,Microsoft,DevOps
+9.83,IT,27.57,2024,IBM,SDE
+8.51,EEE,9.85,2023,Amazon,QA_Engineer
+9.66,ME,18.55,2024,Amazon,Data Science
+8.53,IT,4.16,2023,Google,UI/UX
+9.7,BT,3.45,2024,Paytm,SDE
+5.72,ECE,32.4,2023,Paytm,UI/UX
+8.26,ME,13.15,2023,Infosys,Business_Analyst
+5.48,CE,33.72,2024,Infosys,DevOps
+8.44,CSE,11.15,2023,Google,SDE
+7.45,CSE,18.57,2023,Flipkart,Data Science
+9.73,CSE,7.94,2024,Adobe,Data Science
+6.03,EEE,12.93,2023,Flipkart,UI/UX
+7.39,CSE,26.96,2024,Microsoft,Product Manager
+9.45,IT,24.27,2024,Wipro,SDE
+7.55,CSE,10.17,2024,Amazon,QA_Engineer
+5.19,ME,21.74,2024,TCS,QA_Engineer
+7.33,IT,39.88,2024,Infosys,DevOps
+5.5,ECE,30.06,2024,Google,SDE
+5.1,ECE,29.88,2023,IBM,Data Science
+5.65,IT,6.26,2024,Adobe,Business_Analyst
+9.87,ECE,22.7,2023,Amazon,DevOps
