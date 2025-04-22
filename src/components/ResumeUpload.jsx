@@ -1,6 +1,8 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import { toast } from 'react-toastify';
+import ReactMarkdown from 'react-markdown';
+import { baseURL } from '../utils/constant';
 
 const ResumeUpload = () => {
   const [file, setFile] = useState(null);
@@ -27,12 +29,12 @@ const ResumeUpload = () => {
     }
 
     const formData = new FormData();
-    formData.append('resume', file);
+    formData.append('file', file);
 
     setLoading(true);
     try {
       console.log('Sending request to backend...');
-      const response = await axios.post('http://localhost:5000/api/upload-resume', formData, {
+      const response = await axios.post(`${baseURL}/analyze`, formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
@@ -40,15 +42,15 @@ const ResumeUpload = () => {
 
       console.log('Response from backend:', response.data);
 
-      if (response.data.summary) {
+      if (response.data.response) {
         setMessage('Resume processed successfully!');
-        setSummary(response.data.summary);
+        setSummary(response.data.response);
         toast.success('Resume processed successfully!');
       } else {
         setError('No summary received from the server');
         toast.error('No summary received from the server');
       }
-      
+
       setFile(null);
       // Reset the file input
       e.target.reset();
@@ -57,7 +59,7 @@ const ResumeUpload = () => {
       const errorMessage = error.response?.data?.error || error.message || 'Error uploading resume';
       const errorDetails = error.response?.data?.details || '';
       const errorTraceback = error.response?.data?.traceback || '';
-      
+
       setError(errorMessage);
       setDetailedError({ details: errorDetails, traceback: errorTraceback });
       toast.error(errorMessage);
@@ -69,7 +71,7 @@ const ResumeUpload = () => {
 
   const renderSummarySection = (title, content) => {
     if (!content || (Array.isArray(content) && content.length === 0)) return null;
-    
+
     return (
       <div className="mb-4">
         <h3 className="text-lg font-semibold text-gray-800 mb-2">{title}</h3>
@@ -106,7 +108,7 @@ const ResumeUpload = () => {
                      hover:file:bg-blue-100"
           />
         </div>
-        
+
         <button
           type="submit"
           disabled={loading}
@@ -129,12 +131,7 @@ const ResumeUpload = () => {
         <div className="mt-8 border-t pt-6">
           <h2 className="text-xl font-bold mb-4">Resume Summary</h2>
           <div className="bg-gray-50 p-6 rounded-lg">
-            {renderSummarySection("Contact Information", summary.contact_info)}
-            {renderSummarySection("Skills", summary.skills)}
-            {renderSummarySection("Education", summary.education)}
-            {renderSummarySection("Experience", summary.experience)}
-            {renderSummarySection("Projects", summary.projects)}
-            {renderSummarySection("Certifications", summary.certifications)}
+            <ReactMarkdown>{summary}</ReactMarkdown>
           </div>
         </div>
       )}
