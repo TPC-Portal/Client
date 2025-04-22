@@ -22,7 +22,7 @@ const App = () => {
     const fetchData = async () => {
       try {
         const data = await loadStudentData(dispatch);
-        console.log("Student data loaded successfully:", data);
+        // console.log("Student data loaded successfully:", data);
       } catch (error) {
         console.error("Error loading student data:", error);
       }

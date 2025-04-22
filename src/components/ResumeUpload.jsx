@@ -33,14 +33,14 @@ const ResumeUpload = () => {
 
     setLoading(true);
     try {
-      console.log('Sending request to backend...');
+      // console.log('Sending request to backend...');
       const response = await axios.post(`${baseURL}/analyze`, formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
       });
 
-      console.log('Response from backend:', response.data);
+      // console.log('Response from backend:', response.data);
 
       if (response.data.response) {
         setMessage('Resume processed successfully!');

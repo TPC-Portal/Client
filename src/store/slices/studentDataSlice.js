@@ -10,7 +10,7 @@ export const studentDataSlice = createSlice({
     reducers: {
         addStudentData(state, action) {
             state.data = action.payload.data;
-            console.log(state.data[0])
+            // console.log(state.data[0])
         },
 
         appendStudentData(state, action) {
