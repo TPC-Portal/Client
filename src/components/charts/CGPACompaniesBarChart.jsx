@@ -21,10 +21,13 @@ const CGPACompaniesBarChart = ({ data, selectedYear = 'All' }) => {
   const chartData = useMemo(() => {
     if (!data || data.length === 0) return [];
     
+    // Sort data by Year in ascending order
+    const sortedData = data.slice().sort((a, b) => parseInt(a.Year) - parseInt(b.Year));
+
     // Filter by selected year if not 'All'
     const filteredData = selectedYear === 'All' 
-      ? data 
-      : data.filter(item => item.Year === selectedYear);
+      ? sortedData 
+      : sortedData.filter(item => item.Year === selectedYear);
 
     // Define CGPA ranges
     const cgpaRanges = [

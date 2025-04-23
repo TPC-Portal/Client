@@ -190,10 +190,13 @@ const RoleCTCPieChart = ({ data, selectedYear }) => {
   const chartData = useMemo(() => {
     if (!data || data.length === 0) return { data: [], totalCompanies: 0 };
     
+    // Sort data by Year in ascending order
+    const sortedData = data.slice().sort((a, b) => parseInt(a.Year) - parseInt(b.Year));
+    
     // Filter by selected year
     const filteredData = selectedYear === 'All' 
-      ? data 
-      : data.filter(item => item.Year === selectedYear);
+      ? sortedData 
+      : sortedData.filter(item => item.Year === selectedYear);
     
     // Count total unique companies for percentage calculation
     const uniqueCompanies = new Set();

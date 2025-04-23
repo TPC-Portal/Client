@@ -23,7 +23,7 @@ const Insights = () => {
   const years = useMemo(() => {
     if (!studentData || studentData.length === 0) return ['All'];
     
-    const uniqueYears = [...new Set(studentData.map(item => item.Year))];
+    const uniqueYears = [...new Set(studentData.map(item => item.Year))].sort((a, b) => parseInt(a) - parseInt(b));
     return ['All', ...uniqueYears];
   }, [studentData]);
   
