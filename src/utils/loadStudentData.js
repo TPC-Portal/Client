@@ -5,7 +5,7 @@ import { addStudentData } from "../store/slices/studentDataSlice.js";
 
 export const loadStudentData = (dispatch) => {
   return new Promise((resolve, reject) => {
-    axios.get("/newdata.csv")
+    axios.get("/dataset.csv")
       .then((response) => {
         if (response.status === 200) {
           // Parse the CSV data
