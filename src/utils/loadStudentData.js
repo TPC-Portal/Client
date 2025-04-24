@@ -14,10 +14,8 @@ export const loadStudentData = (dispatch) => {
             skipEmptyLines: true,
             complete: (results) => {
               const data = results.data;
-
               if (data && data.length > 0) {
                 dispatch(addStudentData({ data }));
-
                 resolve({ data });
               } else {
                 reject("No data found in the CSV file.");
