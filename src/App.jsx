@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import MainLayout from './layouts/MainLayout';
 import LoadingSkeleton from './components/ui/LoadingSkeleton';
+import ProtectedRoute from './components/auth/ProtectedRoute';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { loadStudentData } from './utils/loadStudentData';
@@ -41,10 +42,10 @@ const App = () => {
         }>
           <Routes>
             <Route path="/" element={<MainLayout />}>
-              <Route index element={<Dashboard />} />
-              <Route path="insights" element={<Insights />} />
-              <Route path="resume" element={<Resume />} />
-              <Route path="last" element={<LastAnalysis />} />
+              <Route index element={<ProtectedRoute><Dashboard /></ProtectedRoute>} />
+              <Route path="insights" element={<ProtectedRoute><Insights /></ProtectedRoute>} />
+              <Route path="resume" element={<ProtectedRoute><Resume /></ProtectedRoute>} />
+              <Route path="last" element={<ProtectedRoute><LastAnalysis /></ProtectedRoute>} />
               <Route path="login" element={<Login />} />
               <Route path="signup" element={<Signup />} />
               <Route path="*" element={<Navigate to="/" replace />} />

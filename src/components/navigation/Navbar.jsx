@@ -1,30 +1,35 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { useLocation, useNavigate } from 'react-router-dom';
-import { Bell, User, Settings, LogOut, Menu, ChevronDown, LogIn } from 'lucide-react';
-import { useSelector } from 'react-redux';
+import { LogOut, Menu, LogIn } from 'lucide-react';
+import { toast } from 'react-toastify';
 import NavItem from './NavItem';
-import DropdownMenu from './DropdownMenu';
 import MobileMenu from './MobileMenu';
-
-const notifications = [
-  { id: 1, title: 'New job match', message: 'Google has a new position matching your profile', time: '5m ago' },
-  { id: 2, title: 'Resume tip', message: 'Add your latest project to improve score', time: '1h ago' },
-  { id: 3, title: 'Interview scheduled', message: 'Amazon interview on Monday 10 AM', time: '2h ago' },
-];
 
 const Navbar = () => {
   const location = useLocation();
   const navigate = useNavigate();
-  const [isProfileOpen, setIsProfileOpen] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
-  const isAuthenticated = useSelector((state) => state.auth.isAuthenticated);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
 
-  const profileMenuItems = [
-    { icon: User, title: 'View Profile', onClick: () => navigate('/profile') },
-    { icon: Settings, title: 'Settings', onClick: () => navigate('/settings') },
-    { icon: LogOut, title: 'Sign Out', onClick: () => {/* Handle sign out */} },
-  ];
+  useEffect(() => {
+    const checkAuth = () => {
+      const loginStatus = localStorage.getItem('isLogin') === 'true';
+      setIsAuthenticated(loginStatus);
+    };
+    
+    checkAuth();
+    window.addEventListener('storage', checkAuth);
+    
+    return () => window.removeEventListener('storage', checkAuth);
+  }, []);
+
+  const handleLogout = () => {
+    localStorage.removeItem('isLogin');
+    setIsAuthenticated(false);
+    toast.success('Logged out successfully');
+    navigate('/login');
+  };
 
   return (
     <motion.nav 
@@ -65,22 +70,15 @@ const Navbar = () => {
                 <span className="hidden sm:inline">Login</span>
               </motion.button>
             ) : (
-              <div className="relative">
-                <motion.button
-                  className="flex items-center gap-2 p-2 rounded-full bg-white/5 hover:bg-white/10 transition-colors duration-200"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                  onClick={() => setIsProfileOpen(!isProfileOpen)}
-                >
-                  <User className="w-6 h-6 text-gray-300" />
-                  <ChevronDown className="w-4 h-4 text-gray-400" />
-                </motion.button>
-                <DropdownMenu 
-                  isOpen={isProfileOpen} 
-                  items={profileMenuItems}
-                  onClose={() => setIsProfileOpen(false)}
-                />
-              </div>
+              <motion.button
+                className="flex items-center gap-2 px-4 py-2 rounded-lg bg-gradient-to-r from-red-600 to-red-500 hover:from-red-500 hover:to-red-400 text-white text-sm font-medium transition-all duration-200 shadow-md hover:shadow-lg border border-red-400/20"
+                whileHover={{ scale: 1.02 }}
+                whileTap={{ scale: 0.98 }}
+                onClick={handleLogout}
+              >
+                <LogOut className="w-4.5 h-4.5" />
+                <span className="hidden sm:inline">Logout</span>
+              </motion.button>
             )}
 
             <motion.button

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+// eslint-disable-next-line no-unused-vars
 import { motion } from 'framer-motion';
 import axios from 'axios';
 import { toast } from 'react-toastify';
@@ -90,18 +91,18 @@ const LastAnalysis = () => {
     <motion.div
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
-      className="min-h-screen bg-gradient-to-br from-gray-50 via-blue-50 to-indigo-50 py-12 px-4"
+      className="min-h-screen  py-12 px-4"
     >
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="mb-8 flex items-center justify-between">
           <div>
-            <h1 className="text-3xl font-bold text-gray-800 mb-2">Last Resume Analysis</h1>
-            <p className="text-gray-600">
+            <h1 className="text-3xl font-bold text-gray-200 mb-2">Last Resume Analysis</h1>
+            <p className="text-gray-400">
               Analyzed on {new Date(analysisData.uploaded_at).toLocaleString()}
             </p>
             {analysisData.filename && (
-              <p className="text-sm text-gray-500 mt-1">
+              <p className="text-sm text-gray-300 mt-1">
                 File: <span className="font-medium">{analysisData.filename}</span>
               </p>
             )}

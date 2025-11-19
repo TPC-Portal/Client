@@ -1,7 +1,9 @@
+/* eslint-disable no-unused-vars */
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { LogIn } from 'lucide-react';
+import { toast } from 'react-toastify';
 
 const Login = () => {
   const [formData, setFormData] = useState({
@@ -24,12 +26,18 @@ const Login = () => {
     setError('');
     setLoading(true);
 
-    // Simulate loading state
-    setTimeout(() => {
+    // Validate credentials
+    if (formData.email === 'demo@lnmiit.ac.in' && formData.password === '123456789') {
+      localStorage.setItem('isLogin', 'true');
+      toast.success('Login successful!');
+      setTimeout(() => {
+        setLoading(false);
+        navigate('/');
+      }, 1000);
+    } else {
+      toast.error('Wrong credentials');
       setLoading(false);
-      // Show success message
-      alert('Login functionality is not implemented yet. This is just a demo!');
-    }, 1500);
+    }
   };
 
   return (

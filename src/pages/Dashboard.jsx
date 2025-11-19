@@ -1,28 +1,106 @@
-import React from 'react';
+/* eslint-disable no-unused-vars */
+import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
-import { Upload, FileText, Bell, TrendingUp, Award, Clock, ChevronRight } from 'lucide-react';
+import { Upload, FileText, Bell, TrendingUp, Award, Clock, ChevronRight, Target, Briefcase } from 'lucide-react';
+import { useNavigate } from "react-router-dom";
+import axios from 'axios';
+import { baseURL } from '../utils/constant';
 
-const resumeStats = [
-  { label: 'Resume Score', value: 85, icon: Award },
-  { label: 'Recommendations', value: 15, icon: TrendingUp },
-  { label: 'Resumes Uploaded', value: 2, icon: FileText },
-  { label: 'Last Update', value: 'Apr 17, 2025', icon: Clock },
-];
-
-const topCompanies = [
+const defaultCompanies = [
   { name: 'Google', match: 92, package: '30 LPA', logo: 'https://logo.clearbit.com/google.com' },
   { name: 'Amazon', match: 88, package: '28 LPA', logo: 'https://logo.clearbit.com/amazon.com' },
   { name: 'Flipkart', match: 85, package: '26 LPA', logo: 'https://logo.clearbit.com/flipkart.com' },
 ];
 
-const placementTrends = [
-  { year: '2021', placements: 120 },
-  { year: '2022', placements: 145 },
-  { year: '2023', placements: 160 },
-];
+// Generate random placement data for 2021-2025
+const generatePlacementTrends = () => {
+  return [
+    { year: '2021', placements: Math.floor(Math.random() * 50) + 100 },
+    { year: '2022', placements: Math.floor(Math.random() * 50) + 120 },
+    { year: '2023', placements: Math.floor(Math.random() * 50) + 140 },
+    { year: '2024', placements: Math.floor(Math.random() * 50) + 150 },
+    { year: '2025', placements: Math.floor(Math.random() * 50) + 160 },
+  ];
+};
 
 const Dashboard = () => {
+  const navigate = useNavigate();
+  const [topCompanies, setTopCompanies] = useState(defaultCompanies);
+  const [placementTrends, setPlacementTrends] = useState(generatePlacementTrends());
+  const [resumeStats, setResumeStats] = useState([
+    { label: 'Selection Chance', value: 'N/A', icon: Award },
+    { label: 'Strengths', value: 0, icon: TrendingUp },
+    { label: 'Recommendations', value: 0, icon: Target },
+    { label: 'Last Updated', value: 'N/A', icon: Clock },
+  ]);
+
+  useEffect(() => {
+    fetchLastAnalysis();
+  }, []);
+
+  const fetchLastAnalysis = async () => {
+    try {
+      const response = await axios.get(`${baseURL}/last-resume`);
+      if (response.data && response.data.analysis) {
+        const analysis = response.data.analysis;
+        const uploadedAt = response.data.uploaded_at;
+        
+        // Format date
+        let formattedDate = 'N/A';
+        if (uploadedAt) {
+          const date = new Date(uploadedAt);
+          formattedDate = date.toLocaleDateString('en-US', { 
+            year: 'numeric', 
+            month: 'short', 
+            day: 'numeric' 
+          });
+        }
+        
+        // Update stats from analysis
+        const newStats = [
+          { 
+            label: 'Selection Chance', 
+            value: analysis.selection_chance || 'N/A', 
+            icon: Award 
+          },
+          { 
+            label: 'Strengths', 
+            value: analysis.strengths?.length || 0, 
+            icon: TrendingUp 
+          },
+          { 
+            label: 'Recommendations', 
+            value: analysis.recommendations?.length || 0, 
+            icon: Target 
+          },
+          { 
+            label: 'Last Updated', 
+            value: formattedDate, 
+            icon: Clock 
+          },
+        ];
+        setResumeStats(newStats);
+
+        // Update companies
+        if (analysis.recommended_companies) {
+          const companies = analysis.recommended_companies.slice(0, 3).map((companyName, index) => {
+            const domain = companyName.toLowerCase().replace(/\s+/g, '').replace(/[()]/g, '') + '.com';
+            return {
+              name: companyName,
+              match: 90 - (index * 3),
+              package: `${30 - (index * 2)} LPA`,
+              logo: `https://logo.clearbit.com/${domain}`
+            };
+          });
+          setTopCompanies(companies);
+        }
+      }
+    } catch (error) {
+      console.log('No previous analysis found, using default values');
+    }
+  };
+
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -123,8 +201,8 @@ const Dashboard = () => {
         <div className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-6 border border-gray-700">
           <ResponsiveContainer width="100%" height={300}>
             <BarChart data={placementTrends}>
-              <XAxis dataKey="year" stroke="#94a3b8" />
-              <YAxis stroke="#94a3b8" />
+              <XAxis dataKey="year" stroke="#ffffff" />
+              <YAxis stroke="#ffffff" />
               <Tooltip 
                 contentStyle={{ 
                   backgroundColor: 'rgba(17, 24, 39, 0.8)',
@@ -151,14 +229,15 @@ const Dashboard = () => {
 
       {/* Quick Actions */}
       <motion.div 
-        className="grid grid-cols-1 md:grid-cols-3 gap-6"
+        className="grid grid-cols-1 md:grid-cols-2 gap-6"
         variants={containerVariants}
       >
         <motion.button 
-          className="flex items-center justify-center gap-3 bg-blue-500/20 hover:bg-blue-500/30 text-blue-400 p-4 rounded-xl border border-blue-500/30 transition-all duration-300"
+          className=" cursor-pointer flex items-center justify-center gap-3 bg-blue-500/20 hover:bg-blue-500/30 text-blue-400 p-4 rounded-xl border border-blue-500/30 transition-all duration-300"
           variants={itemVariants}
           whileHover={{ scale: 1.02 }}
           whileTap={{ scale: 0.98 }}
+          onClick={() => navigate("/Resume")}
         >
           <Upload size={20} /> Upload Resume
         </motion.button>
@@ -167,16 +246,9 @@ const Dashboard = () => {
           variants={itemVariants}
           whileHover={{ scale: 1.02 }}
           whileTap={{ scale: 0.98 }}
+          onClick={() => navigate("/last")}
         >
-          <FileText size={20} /> View Suggestions
-        </motion.button>
-        <motion.button 
-          className="flex items-center justify-center gap-3 bg-green-500/20 hover:bg-green-500/30 text-green-400 p-4 rounded-xl border border-green-500/30 transition-all duration-300"
-          variants={itemVariants}
-          whileHover={{ scale: 1.02 }}
-          whileTap={{ scale: 0.98 }}
-        >
-          <Bell size={20} /> View Notifications
+          <FileText size={20} /> View Analyses
         </motion.button>
       </motion.div>
     </motion.div>
